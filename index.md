@@ -1,19 +1,16 @@
 ## Hello. 
 
-My name is Matt. I'm an Associate Professor Language & Technology and the Director of the Voice Technology MSc. at the University of Groningen Campus Fryslân. I am by training a linguist and work on auditory perception, voice technology, and minority languages.
+My name is Matt. I'm an Associate Professor Language & Technology and the Director of the Voice Technology MSc. at the University of Groningen Campus Fryslân. I am by training a linguist and work on auditory perception, voice technology, and minority languages. This page provides gives more insight into what I'm working on. You can read about my research, academic appointments, outreach activities, and news. My online presence is here.
+
+
+
 
 Links
 - [University website](https://www.rug.nl/staff/m.coler/)
 - [Twitter](https://twitter.com/mlcoler)
 - [OrcID](https://orcid.org/0000-0002-7631-5063)
 
-### Research
-
-## Voice Technology
-
-## Minority languages 
-
-## Perception 
+ 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
