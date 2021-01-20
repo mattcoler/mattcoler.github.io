@@ -1,8 +1,4 @@
----
-title: Research
-layout: template
-filename: Research
---- 
+
 
 # Research
 This page describes ongoing research
