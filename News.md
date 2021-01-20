@@ -8,6 +8,7 @@ Popular articles and outreach activities are summarized chronologically below.
 ## 2021
 
 - Jan 22: Moderator for the [Common Voice Contribute-a-thon Dutch vs. Frisian challenge](https://foundation.mozilla.org/de/blog/8-day-dutch-and-frisian-common-voice-contribute-thon/)
+- Jan 12: [Global Cast](https://podcasts.apple.com/us/podcast/campus-frysl%C3%A2n-globalcast/id1518619438?uo=4) podcast guest: Together with Esther Klabbers (ReadSpeaker) we discussed voice technology.
 
 ## 2020
 
