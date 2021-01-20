@@ -10,6 +10,14 @@ layout: default
 - Editorial Assistant, Probus Journal of Romance Linguistics
 - Open Access Ambassador for Campus Fryslân (2019–present)
 
+### Teaching 
+- Thesis Design (Voice Technology MSc., University of Groningen) 2021-2022
+- Language and Culture I (Global Responsibility BSc., University of Groningen) 2020-2021
+- Language and Culture II  (Global Responsibility BSc., University of Groningen) 2019-2020
+- Academic Communication  (Global Responsibility BSc., University of Groningen) 2019
+- Linguistic Anthropology (Anthropology, VU Amsterdam) 2012
+- English for Professional Purposes (HvA Amsterdam University of Applied Sciences) 2011-2012
+
 ## Previous academic service
 
 - Chair, Ethical Committee of Campus Fryslân (2018--2020)
