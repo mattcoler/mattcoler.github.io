@@ -3,15 +3,18 @@ layout: default
 ---
 
 # Research
-This page describes ongoing research
+This page outlines ongoing research.
 
 ## Voice Technology
-Research in voice technology is performed with two PhD students:
-
-1. Vass Verkhodanova: Speech recognition (detecting pathology from voice)
-2. Phat Do: Speech synthesis (synthesizing under-resourced languages)
+1. Speech recognition: detecting pathology from voice with Vass Verkhodanova (PhD student)
+2. Speech synthesis: synthesizing under-resourced languages with Phat Do (PhD researcher)
 
 ## Minoritized languages 
-Research in minoiritized languages
+1. Frisian language and culture with Bianca Dijkstra and Jesse van Amelsvoort (PhD students)
+2. Andean languages, specifically Aymara
+3. European and diaspora minority languages
 
 ## Auditory perception
+1. Perception of musical rhythm in the Andes, AKA Andean anacrusis
+2. Perception of speech rhythm
+3. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
