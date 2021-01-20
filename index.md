@@ -1,10 +1,15 @@
-## Welcome 
+## About 
+
+My name is Matt. I'm an Associate Professor Language & Technology and the Director of the Voice Technology MSc. at the University of Groningen Campus Fryslân.
+
+Links
+- [University website](https://www.rug.nl/staff/m.coler/)
 
 You can use the [editor on GitHub](https://github.com/mattcoler/mattcoler.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
