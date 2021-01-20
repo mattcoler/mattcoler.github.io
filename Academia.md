@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ongoing academic services
+# Ongoing academic service
 
 - Director, [Voice Technology Master's Program](mattcoler.github.io/VoiceTech)
 - Chair, Admissions Board of Voice Technology Master's program 
