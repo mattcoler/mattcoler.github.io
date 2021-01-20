@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I can be contacted by email at m[dot]coler[at]rug[dot]nl and by Wire [@mattcoler]
+I can be emailed at m[dot]coler[at]rug[dot]nl and by Wire [@mattcoler]
 
 Links
 - [University website](https://www.rug.nl/staff/m.coler/)
