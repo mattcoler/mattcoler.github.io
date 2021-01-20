@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # Research
 This page describes ongoing research
