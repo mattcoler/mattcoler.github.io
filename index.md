@@ -1,32 +1,26 @@
-## About 
+## Hello. 
 
-My name is Matt. I'm an Associate Professor Language & Technology and the Director of the Voice Technology MSc. at the University of Groningen Campus Fryslân.
+My name is Matt. I'm an Associate Professor Language & Technology and the Director of the Voice Technology MSc. at the University of Groningen Campus Fryslân. I am by training a linguist and work on auditory perception, voice technology, and minority languages.
 
 Links
 - [University website](https://www.rug.nl/staff/m.coler/)
-
-You can use the [editor on GitHub](https://github.com/mattcoler/mattcoler.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Twitter](https://twitter.com/mlcoler)
+- [OrcID](https://orcid.org/0000-0002-7631-5063)
 
 ### Research
+
+## Voice Technology
+
+## Minority languages 
+
+## Perception 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
