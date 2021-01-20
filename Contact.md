@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I can be emailed at m[dot]coler[at]rug[dot]nl and by Wire [@mattcoler]
+I can be emailed at m[dot]coler[at]rug[dot]nl and by [Wire](https://wire.com/en/download/) [@mattcoler]
 
 Links
 - [University website](https://www.rug.nl/staff/m.coler/)
