@@ -24,3 +24,15 @@ Scientific Committee Member of Engaged Humanities: preserving and revitalizing e
 - Program Committee for 1st joint spoken language technologies for under-resourced languages and Collaboration and computer for under=resourced languages, a joint Special Interest Group of ELRA and ISCA. Pre-conference workshop for LREC 2020.
 - Scientific Advisory Board, Scientific Advisory Board Member, Foundation ICT for Brain, Body & Behavior i3b Foundation, Wageningen
 - Chair, Committee Member and/or Panelist of multiple international conferences, including SLTUCCURL at LREC-2020 “Spoken language tech for under-resourced languages”, ICLaVE-10 “Diaspora languages” (2019), COLING “Language Tech for Minority Languages” (2018-2019), EvoStar2017, EuroNoise 2015 (soundscape session), Big Data CEEDS (2013) Google, London, etc.
+
+
+## PhD Defense Jury
+
+I regularly serve on doctoral defense juries.
+
+- 2020 (x1)
+- 2018 (x1)
+- 2017 (x2)
+- 2016 (x2)
+- 2015 (x1)
+- 2011 (x2)
