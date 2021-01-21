@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Research
-This page outlines ongoing research.
+This page outlines ongoing research and provides some examples of output related to each theme. A complete overview of publications can be found on my CV.
 
 ## Voice Technology
 1. Speech recognition: detecting pathology from voice with Vass Verkhodanova (PhD student)
@@ -16,8 +16,7 @@ This page outlines ongoing research.
 
 ## Auditory perception
 1. Perception of musical rhythm in the Andes, AKA Andean anacrusis
+- Coler, M., Guyot, P., & Banegas-Flores, E. (2020). _Verbal art as heuristic for semantic analyses._ LIAMES: Línguas Indígenas Americanas, 20, e020011. [link](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8660368)
 2. Multilingual perception and salience with Vincent Boswijk (PhD student)
-- output 1
-- output 2
 3. Intelligibility and comprehension of multilingual speech with(out) a vocoder with Marita Everhardt (PhD student)
 4. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
