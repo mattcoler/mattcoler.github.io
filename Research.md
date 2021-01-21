@@ -16,7 +16,7 @@ This page outlines ongoing research and provides some examples of output related
 
 ## Auditory perception
 1. Perception of musical rhythm in the Andes, AKA Andean anacrusis
-- Coler, M., Guyot, P., & Banegas-Flores, E. (2020). _Verbal art as heuristic for semantic analyses._ LIAMES: Línguas Indígenas Americanas, 20, e020011. [link](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8660368)
+- Coler, M., Guyot, P., & Banegas-Flores, E. (2020). [_Verbal art as heuristic for semantic analyses._](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8660368) LIAMES: Línguas Indígenas Americanas, 20, e020011. 
 2. Multilingual perception and salience with Vincent Boswijk (PhD student)
 3. Intelligibility and comprehension of multilingual speech with(out) a vocoder with Marita Everhardt (PhD student)
 4. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
