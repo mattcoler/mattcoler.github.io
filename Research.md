@@ -16,6 +16,8 @@ This page outlines ongoing research.
 
 ## Auditory perception
 1. Perception of musical rhythm in the Andes, AKA Andean anacrusis
-2. Multilingual perception with Vincent Boswijk (PhD student)
-3. Perception of speech rhythm
+2. Multilingual perception and salience with Vincent Boswijk (PhD student)
+- output 1
+- output 2
+3. Intelligibility and comprehension of multilingual speech with(out) a vocoder with Marita Everhardt (PhD student)
 4. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
