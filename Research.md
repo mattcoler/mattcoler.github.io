@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Research
-This page outlines ongoing research and provides some examples of output related to each theme. A complete overview of publications can be found on my CV. [(return home)](/index)
+This page outlines ongoing research and provides some examples of output related to each theme. A complete overview of publications can be found on my CV. 
+[<return home>](/index)
 
 ## Voice Technology
 1. Speech recognition: detecting pathology from voice with Vass Verkhodanova (PhD student)
