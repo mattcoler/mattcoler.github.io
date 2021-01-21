@@ -8,11 +8,8 @@ Popular articles and outreach activities are summarized chronologically below.
 ## 2021
 
 - Jan 22: Moderator for the [Common Voice Contribute-a-thon Dutch vs. Frisian challenge](https://foundation.mozilla.org/de/blog/8-day-dutch-and-frisian-common-voice-contribute-thon/)
-- Jan 21: Leeuwarder Courant [Veelbelovende spraaktechnologie moet je niet aan Silicon Valley overlaten](www.cnn.com) - I was interviewed about voice technology, the new MSc program and cooperation between university and industry.
+- Jan 21: Leeuwarder Courant [Veelbelovende spraaktechnologie moet je niet aan Silicon Valley overlaten](https://www.linkedin.com/posts/rug-campus-fryslan_voor-kleine-talen-als-het-fries-en-nedersaksisch-activity-6757996698993213440-f2Fo) - I was interviewed about voice technology, the new MSc program and cooperation between university and industry.
 - Jan 12: [Global Cast](https://podcasts.apple.com/us/podcast/campus-frysl%C3%A2n-globalcast/id1518619438?uo=4) podcast guest - Together with Esther Klabbers (ReadSpeaker) we discussed voice technology.
-
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6757996698007564288" height="733" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## 2020
 
