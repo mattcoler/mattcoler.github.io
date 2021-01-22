@@ -10,7 +10,14 @@ This page outlines ongoing research and provides some examples of output related
 1. Speech recognition: detecting pathology from voice with Vass Verkhodanova (PhD student)
 - Verkhodanova, V., Trˇckov´a, D., Coler, M., & Lowie, W. (2020, October). [_More than Words: Cross-Linguistic Exploration of Parkinson’s Disease Identification from Speech_](https://link.springer.com/chapter/10.1007%2F978-3-030-60276-5_59). In International Conference on Speech and Computer (pp. 613-623). Springer, Cham.
 
-2. Speech synthesis: synthesizing under-resourced languages with Phat Do (PhD researcher)
+2. Speech recognition: Intelligibility and comprehension of multilingual speech with(out) a vocoder with Marita Everhardt (PhD student)
+- Everhardt, M. K., Sarampalis, A., Coler, M., Ba¸skent, D., & Lowie, W. (2020). [_Meta-Analysis
+on the Identification of Linguistic and Emotional Prosody in Cochlear Implant Users and Vocoder
+Simulations_](https://pubmed.ncbi.nlm.nih.gov/32251011/). Ear and Hearing 41:5, p. 1092-1102 11.
+- Everhardt, M. K., Sarampalis, A., Coler, M., Başkent, D., & Lowie, W. (2020). [_Processing of prosodically marked focus in a cochlear implant simulation by non-native listeners: Preliminary results_](https://asa.scitation.org/doi/10.1121/1.5147550). The Journal of the Acoustical Society of America, 148(4), 2721-2721.
+
+
+3. Speech synthesis: synthesizing under-resourced languages with Phat Do (PhD researcher)
 
 ## Auditory perception
 1. Perception of musical rhythm in the Andes, AKA Andean anacrusis
@@ -19,13 +26,7 @@ This page outlines ongoing research and provides some examples of output related
 2. Multilingual perception and salience with Vincent Boswijk (PhD student)
 - Boswijk, V. & M. Coler (2020) [_What is salience?_](https://www.degruyter.com/view/journals/opli/6/1/article-p713.xml) Open Linguistics 6(1). De Gruyter.
 
-3. Intelligibility and comprehension of multilingual speech with(out) a vocoder with Marita Everhardt (PhD student)
-- Everhardt, M. K., Sarampalis, A., Coler, M., Ba¸skent, D., & Lowie, W. (2020). [_Meta-Analysis
-on the Identification of Linguistic and Emotional Prosody in Cochlear Implant Users and Vocoder
-Simulations_](https://pubmed.ncbi.nlm.nih.gov/32251011/). Ear and Hearing 41:5, p. 1092-1102 11.
-- Everhardt, M. K., Sarampalis, A., Coler, M., Başkent, D., & Lowie, W. (2020). [_Processing of prosodically marked focus in a cochlear implant simulation by non-native listeners: Preliminary results_](https://asa.scitation.org/doi/10.1121/1.5147550). The Journal of the Acoustical Society of America, 148(4), 2721-2721.
-
-4. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
+3. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
 
 ## Minoritized languages 
 1. Frisian language and culture with Bianca Dijkstra and Jesse van Amelsvoort (PhD students)
