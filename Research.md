@@ -8,6 +8,8 @@ This page outlines ongoing research and provides some examples of output related
 
 ## Voice Technology
 1. Speech recognition: detecting pathology from voice with Vass Verkhodanova (PhD student)
+- Verkhodanova, V., Trˇckov´a, D., Coler, M., & Lowie, W. (2020, October). [_More than Words: Cross-Linguistic Exploration of Parkinson’s Disease Identification from Speech_](https://link.springer.com/chapter/10.1007%2F978-3-030-60276-5_59). In International Conference on Speech and Computer (pp. 613-623). Springer, Cham.
+
 2. Speech synthesis: synthesizing under-resourced languages with Phat Do (PhD researcher)
 
 ## Auditory perception
