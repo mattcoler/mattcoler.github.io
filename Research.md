@@ -20,20 +20,25 @@ Simulations_](https://pubmed.ncbi.nlm.nih.gov/32251011/). Ear and Hearing 41:5, 
 3. Speech synthesis: synthesizing under-resourced languages with Phat Do (PhD researcher)
 
 ## Auditory perception
-1. Perception of musical rhythm in the Andes, AKA Andean anacrusis
-- Coler, M., Guyot, P., & Banegas-Flores, E. (2020). [_Verbal art as heuristic for semantic analyses._](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8660368) LIAMES: Línguas Indígenas Americanas, 20, e020011. 
-
-2. Multilingual perception and salience with Vincent Boswijk (PhD student)
+1. Multilingual perception and salience with Vincent Boswijk (PhD student)
 - Boswijk, V. & M. Coler (2020) [_What is salience?_](https://www.degruyter.com/view/journals/opli/6/1/article-p713.xml) Open Linguistics 6(1). De Gruyter.
 
+2. Perception of musical rhythm in the Andes, AKA Andean anacrusis
+- Coler, M., Guyot, P., & Banegas-Flores, E. (2020). [_Verbal art as heuristic for semantic analyses._](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8660368) LIAMES: Línguas Indígenas Americanas, 20, e020011. 
+
 3. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
+- Dubois, D., Cance, C., M. Coler &  A. Paté (in press). Exploring sensory experiences: A handbook on meaning & the senses. Benjamins.
+
 
 ## Minoritized languages 
 1. Frisian language and culture with Bianca Dijkstra and Jesse van Amelsvoort (PhD students)
 - Dijkstra, B. E., Coler, M., & Redeker, G. (2020). [_The multilingual workplace realities of Polish truckers: A case study in the Netherlands_.](https://www.degruyter.com/view/journals/mult/ahead-of-print/article-10.1515-multi-2020-0038/article-10.1515-multi-2020-0038.xml) Multilingua.
+
 2. Andean languages, specifically Aymara
+- Coler, M. (in press) _Jaqaru_ In M. Urban (ed.) Languages of the Central Andes. OUP.
+- Coler, M. (in press) _Aymara_ In M. Urban (ed.) Languages of the Central Andes. OUP. 
+- Coler, M. & N. Emlen. (2020). _Vowel deletion in two Aymara varieties_. In Kuznetsova & Anderson (eds.) The dynamics of vowel reduction and loss in phonetics and phonology, thematic issue of the Italian Journal of Linguistics.
 - Coler, M. (2014). [A grammar of Muylaq' Aymara: Aymara as spoken in Southern Peru.](https://brill.com/view/title/20649) Brill.
-- Coler, M & N. Emlen. (2020). _Vowel deletion in two Aymara varieties_. Kuznetsova & Anderson, eds. The dynamics of vowel reduction and loss in phonetics and phonology, thematic issue of the Italian Journal of Linguistics.
 
 3. European and diaspora minority languages
 - Diaspora Languages (eds. Coler & Nevins). Forthcoming. Language Science Press.
