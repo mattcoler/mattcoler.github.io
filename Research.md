@@ -37,7 +37,7 @@ Simulations_](https://pubmed.ncbi.nlm.nih.gov/32251011/). Ear and Hearing 41:5, 
 2. Andean languages, specifically Aymara
 - Coler, M. (in press) _Jaqaru_ In M. Urban (ed.) Languages of the Central Andes. OUP.
 - Coler, M. (in press) _Aymara_ In M. Urban (ed.) Languages of the Central Andes. OUP. 
-- Coler, M. & N. Emlen. (2020). _Vowel deletion in two Aymara varieties_. In Kuznetsova & Anderson (eds.) The dynamics of vowel reduction and loss in phonetics and phonology, thematic issue of the Italian Journal of Linguistics.
+- Coler, M. & N. Emlen. (2020). [_Vowel deletion in two Aymara varieties_](http://www.italian-journal-linguistics.com/wp-content/uploads/8_Coler.pdf). In Kuznetsova & Anderson (eds.) The dynamics of vowel reduction and loss in phonetics and phonology, thematic issue of the Italian Journal of Linguistics.
 - Coler, M. (2014). [A grammar of Muylaq' Aymara: Aymara as spoken in Southern Peru.](https://brill.com/view/title/20649) Brill.
 
 3. European and diaspora minority languages
