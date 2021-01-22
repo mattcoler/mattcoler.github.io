@@ -31,5 +31,7 @@ Simulations_](https://pubmed.ncbi.nlm.nih.gov/32251011/). Ear and Hearing 41:5, 
 - Dijkstra, B. E., Coler, M., & Redeker, G. (2020). [_The multilingual workplace realities of Polish truckers: A case study in the Netherlands_.](https://www.degruyter.com/view/journals/mult/ahead-of-print/article-10.1515-multi-2020-0038/article-10.1515-multi-2020-0038.xml) Multilingua.
 2. Andean languages, specifically Aymara
 - Coler, M. (2014). [A grammar of Muylaq' Aymara: Aymara as spoken in Southern Peru.](https://brill.com/view/title/20649) Brill.
+- Coler, M & N. Emlen. (2020). _Vowel deletion in two Aymara varieties_. Kuznetsova & Anderson, eds. The dynamics of vowel reduction and loss in phonetics and phonology, thematic issue of the Italian Journal of Linguistics.
+
 3. European and diaspora minority languages
 - Diaspora Languages (eds. Coler & Nevins). Forthcoming. Language Science Press.
