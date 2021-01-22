@@ -23,6 +23,7 @@ This page outlines ongoing research and provides some examples of output related
 - Everhardt, M. K., Sarampalis, A., Coler, M., Ba¸skent, D., & Lowie, W. (2020). [_Meta-Analysis
 on the Identification of Linguistic and Emotional Prosody in Cochlear Implant Users and Vocoder
 Simulations_](https://pubmed.ncbi.nlm.nih.gov/32251011/). Ear and Hearing 41:5, p. 1092-1102 11.
+- Everhardt, M. K., Sarampalis, A., Coler, M., Başkent, D., & Lowie, W. (2020). [_Processing of prosodically marked focus in a cochlear implant simulation by non-native listeners: Preliminary results_](https://asa.scitation.org/doi/10.1121/1.5147550). The Journal of the Acoustical Society of America, 148(4), 2721-2721.
 
 4. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
 
