@@ -18,7 +18,7 @@ Simulations](https://pubmed.ncbi.nlm.nih.gov/32251011/). _Ear and Hearing_ 41:5,
 - Everhardt, M. K., Sarampalis, A., Coler, M., Başkent, D., & Lowie, W. (2020). [Processing of prosodically marked focus in a cochlear implant simulation by non-native listeners: Preliminary results](https://asa.scitation.org/doi/10.1121/1.5147550). _The Journal of the Acoustical Society of America_, 148(4), 2721-2721.
 
 
-3. Speech synthesis: synthesizing under-resourced languages with Phat Do (PhD researcher)
+3. Voice synthesis: synthesizing under-resourced languages with Phat Do (PhD researcher)
 
 ## Auditory perception
 1. Multilingual perception and salience with Vincent Boswijk (PhD student)
