@@ -8,6 +8,7 @@ This page outlines ongoing research and provides some examples of output related
 ## Voice Technology
 1. Speech recognition: detecting pathology from voice with Vass Verkhodanova (PhD student)
 - Verkhodanova, V., Trčková, D., Coler, M., & Lowie, W. (2020, October). [_More than Words: Cross-Linguistic Exploration of Parkinson’s Disease Identification from Speech_](https://link.springer.com/chapter/10.1007%2F978-3-030-60276-5_59). In International Conference on Speech and Computer (pp. 613-623). Springer, Cham.
+- Verkhodanova, V., Timmermans, S., Coler, M., Jonkers, R., de Jong, B., & Lowie, W. (2019, August). [How dysarthric prosody impacts naïve listeners’ recognition](https://link.springer.com/chapter/10.1007/978-3-030-26061-3_52). In _International Conference on Speech and Computer_ (pp. 510-519). Springer, Cham.
 
 2. Speech recognition: Intelligibility and comprehension of multilingual speech with(out) a vocoder with Marita Everhardt (PhD student)
 - Everhardt, M. K., Sarampalis, A., Coler, M., Ba¸skent, D., & Lowie, W. (2020). [Meta-Analysis
