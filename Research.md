@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Research
-This page outlines ongoing research and provides a selection of related output. A complete overview of publications can be found on my [CV](/coler-cv.pdf). See also my [OrcID](https://orcid.org/0000-0002-7631-5063).
+This page outlines ongoing research into Voice Technology, Auditory Perception and Minoritized Languages. I provide a selection of related output for each theme. A complete overview of publications can be found on my [CV](/coler-cv.pdf). See also my [OrcID](https://orcid.org/0000-0002-7631-5063).
 
 ## Voice Technology
 1. Speech recognition: Detecting pathology from voice with Vass Verkhodanova (PhD student)
