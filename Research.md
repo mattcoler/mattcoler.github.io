@@ -28,6 +28,7 @@ Simulations](https://pubmed.ncbi.nlm.nih.gov/32251011/). _Ear and Hearing_ 41:5,
 3. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
 - Dubois, D., Cance, C., M. Coler &  A. Paté (in press). Exploring sensory experiences: A handbook on meaning & the senses. Benjamins.
 - Bild, E., Pfeffer, K., Coler, M., Rubin, O., & Bertolini, L. (2018). [Public space users’ soundscape evaluations in relation to their activities](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01593/full). _Frontiers in psychology_, 9, 1593.
+- Bild, E., Coler, M., Pfeffer, K., & Bertolini, L. (2016). [Considering sound in planning and designing public spaces: A review of theory and applications and a proposed framework for integrating research and practice.](https://journals.sagepub.com/doi/abs/10.1177/0885412216662001) _Journal of planning literature_, 31(4), 419-434.
 
 ## Minoritized languages 
 1. Frisian language and culture with Bianca Dijkstra and Jesse van Amelsvoort (PhD students)
