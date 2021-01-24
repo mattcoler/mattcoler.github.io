@@ -34,4 +34,5 @@ An overview of the year-long MSc. program appears below.
 
 Are you interested in the program or do you have any questions? Please contact the voice tech team at cf-vt@rug.nl
 
-[🏠](/index)
+[🏠](/index) [🤖](/VoiceTech) [🔬](/Research) [🎓](/Academia) [🗞](/News) [📧](/Contact)
+
