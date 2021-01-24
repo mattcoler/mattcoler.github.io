@@ -19,4 +19,8 @@ Popular articles and outreach activities are summarized chronologically below.
 - Mar 03: Leeuwarder Courant [_LC Academie: 'Als een taal verdwijnt verliezen we iets_](https://www.lc.nl/friesland/LC-Academie-Als-een-taal-verdwijnt-verliezen-we-iets-25413607.html) - My role as Work Package Leader on the MSCA-RISE-H2020 COLING project
 - Feb 18: Leeuwarder Courant [_LC Academie: Wel een rijbewijs, geen taalbewijs: truckerscommunicatie_](https://www.lc.nl/friesland/LC-Academie-Wel-een-rijbewijs-geen-taalbewijs-truckerscommunicatie-25364088.html) - Research into multilingual communication strategies of long-haul truckers performed by my PhD student Bianca Dijkstra.
 
-[🏠](/index)
+
+
+
+[🏠](/index) [🤖](/VoiceTech) [🔬](/Research) [🎓](/Academia) [🗞](/News) [📧](/Contact)
+
