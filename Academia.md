@@ -45,4 +45,5 @@ I regularly serve on doctoral defense juries.
 - 2015 (x1)
 - 2011 (x2)
 
-[🏠](/index)
+
+[🏠](/index) [🤖] (/VoiceTech) [🔬](/Research) [🎓](/Academia) [🗞](/News) [📧](/Contact)
