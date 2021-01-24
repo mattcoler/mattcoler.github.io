@@ -8,6 +8,7 @@ The new Voice Technology Master's program is launched in 2021 at the University 
 - [Program website](https://www.rug.nl/cf/studeren-bij-cf/programmas/voice-technology-msc?lang=en)
 - [YouTube video](https://www.youtube.com/watch?v=297BY6uTHB8)
 
+### Curriculum
 The curriculum is aligned across four blocks. The first block is called **Background**. The courses in this block lay the foundations for the MSc. Voice Technology with essential content needed for the rest of the program, such as skills in programming and speech sounds analysis. The Introduction to Voice Technology course provides the basic elements of speech recognition and synthesis and introduces topics relating to data management, privacy issues and the interaction between humans and voice tech applications.
 
 The second block offers **subject-specific courses** on voice technology. The knowledge and skills learned in the first block are used together with Machine Learning within the courses Speech Recogni=on I and Speech Synthesis I. Students learn step-by-step different approaches in building conventional speech recognition and text-to-speech systems.
