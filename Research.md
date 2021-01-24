@@ -6,7 +6,7 @@ layout: default
 This page outlines ongoing research and provides a selection of related output. A complete overview of publications can be found on my [CV](/coler-cv.pdf). See also my [OrcID](https://orcid.org/0000-0002-7631-5063).
 
 ## Voice Technology
-1. Speech recognition: detecting pathology from voice with Vass Verkhodanova (PhD student)
+1. Speech recognition: Detecting pathology from voice with Vass Verkhodanova (PhD student)
 - Verkhodanova, V., Trčková, D., Coler, M., & Lowie, W. (2020, October). [_More than Words: Cross-Linguistic Exploration of Parkinson’s Disease Identification from Speech_](https://link.springer.com/chapter/10.1007%2F978-3-030-60276-5_59). In International Conference on Speech and Computer (pp. 613-623). Springer, Cham.
 - Verkhodanova, V., Timmermans, S., Coler, M., Jonkers, R., de Jong, B., & Lowie, W. (2019, August). [How dysarthric prosody impacts naïve listeners’ recognition](https://link.springer.com/chapter/10.1007/978-3-030-26061-3_52). In _International Conference on Speech and Computer_ (pp. 510-519). Springer, Cham.
 - Strinzel, M., Verkhodanova, V., Jalvingh, F., Jonkers, R., & Coler, M. (2017, September). [Acoustic and Perceptual Correlates of Vowel Articulation in Parkinson’s Disease With and Without Mild Cognitive Impairment: A Pilot Study](https://link.springer.com/chapter/10.1007/978-3-319-66429-3_5). In _International Conference on Speech and Computer_ (pp. 56-64). Springer, Cham.
