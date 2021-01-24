@@ -19,7 +19,7 @@ layout: default
 
 ### Teaching 
 - Thesis Design (Voice Technology MSc., University of Groningen) 2021-2022
-- [Language and Culture I](\LC1.pdf) (Global Responsibility BSc., University of Groningen) 2020-2021
+- [Language and Culture I](/LC1.pdf) (Global Responsibility BSc., University of Groningen) 2020-2021
 - Language and Culture II  (Global Responsibility BSc., University of Groningen) 2019-2020
 - Academic Communication  (Global Responsibility BSc., University of Groningen) 2019
 - Linguistic Anthropology (Anthropology, VU Amsterdam) 2012
