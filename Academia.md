@@ -10,6 +10,13 @@ layout: default
 - Editorial Assistant, Probus Journal of Romance Linguistics
 - Open Access Ambassador for Campus Fryslân (2019–present)
 
+### Funded research
+
+- H2020-MSCA-RISE-2017 - [COLING](https://coling.al.uw.edu.pl). 1.58M€ of which 189k€ is for my team. – Additional funding provided to send all my PhD students to the Smithsonian Institute (Washington, D.C.) for up to six months each. Additional funding to facilitate student/staff exchange at international partner institutes. I serve as a member of the Steering Committee and as a Work Package Leader.
+- [H2020-FET-Open](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/fet-open) - [Phoenix: Exploring the Unknown through Reincarnation and Co-evolution](https://www.phoenix-project.eu/tiki-index.php#&panel1-1). 3.6M€ of which 237k€ was for my team. Project involves developing successive generations of evolving hardware to explore inaccessible environments. I was Work Package Leader and Management Team Member. Completed in 2019.
+- Polish Science Foundation TEAM - [Language as a cure: linguistic vitality as a tool for psychological well-being, health and economic sustainability](https://www.fnp.org.pl/en/team-grant-winners-competition-32016/). 814k€. Completed in 2019.
+- Interreg VA [ID3AS](https://www.id3as.org) - Acoustic event detection. 9.75M€ of which 200k€ was for my team. Completed in 2018.
+
 ### Teaching 
 - Thesis Design (Voice Technology MSc., University of Groningen) 2021-2022
 - Language and Culture I (Global Responsibility BSc., University of Groningen) 2020-2021
