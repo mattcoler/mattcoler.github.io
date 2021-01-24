@@ -17,6 +17,7 @@ The third block concerns **applications**. Speech recognition is taken to a high
 
 In the fourth block, students combine knowledge and skills from the previous blocks and use them in their **Thesis Project**. During their thesis project students will conduct the study described in the research proposal wriKen in the Thesis Design course. They also build a demonstrator of a voice tech applica=on that relates to their thesis. Having a demonstrator alongside a master’s thesis enhances graduates’ competitive edge in the labor market.
 
+### Overview
 An overview of the year-long MSc. program appears below.
 
 
