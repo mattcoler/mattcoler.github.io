@@ -42,4 +42,5 @@ Simulations_](https://pubmed.ncbi.nlm.nih.gov/32251011/). Ear and Hearing 41:5, 
 3. European and diaspora minority languages
 - Diaspora Languages (eds. Coler & Nevins). Forthcoming. Language Science Press.
 
-[🏠](/index)
+[🏠](/index) [🤖](/VoiceTech) [🔬](/Research) [🎓](/Academia) [🗞](/News) [📧](/Contact)
+
