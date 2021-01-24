@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Voice Technology
+# Voice Technology MSc. 
 
 The new Voice Technology Master's program is launched in 2021 at the University of Groningen, Campus Frsylân.  More information can be found at the links below:
 - [Description in Keystone](https://www.masterstudies.com/MSc-in-Voice-Technology/Netherlands/University-of-Groningen-Campus-Fryslan/) (including deadlines, costs, etc.)
@@ -16,9 +16,7 @@ The third block concerns **applications**. Speech recognition is taken to a high
 
 In the fourth block, students combine knowledge and skills from the previous blocks and use them in their **Thesis Project**. During their thesis project students will conduct the study described in the research proposal wriKen in the Thesis Design course. They also build a demonstrator of a voice tech applica=on that relates to their thesis. Having a demonstrator alongside a master’s thesis enhances graduates’ competitive edge in the labor market.
 
-Are you interested in the program or do you have any questions? Please contact us at cf-vt@rug.nl
-
-A summary overview of the year-long MSc. program appears below. More detail can be found in the links above.
+An overview of the year-long MSc. program appears below. More detail can be found in the links at the top.
 
 
 | Course                 | Term 1 | Term 2 | Term 3 | Term 4 |
@@ -33,3 +31,5 @@ A summary overview of the year-long MSc. program appears below. More detail can 
 | Speech synthesis II    |        |        | x      |        |
 | Thesis Design          |        |        | x      |        |
 | Thesis Project         |        |        |        | x      |
+
+Are you interested in the program or do you have any questions? Please contact us at cf-vt@rug.nl
