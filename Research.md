@@ -5,8 +5,6 @@ layout: default
 # Research
 This page outlines ongoing research and provides some examples of output related to each theme. A complete overview of publications can be found on my CV. See also my [OrcID](https://orcid.org/0000-0002-7631-5063).
 
-[🏠](/index)
-
 ## Voice Technology
 1. Speech recognition: detecting pathology from voice with Vass Verkhodanova (PhD student)
 - Verkhodanova, V., Trčková, D., Coler, M., & Lowie, W. (2020, October). [_More than Words: Cross-Linguistic Exploration of Parkinson’s Disease Identification from Speech_](https://link.springer.com/chapter/10.1007%2F978-3-030-60276-5_59). In International Conference on Speech and Computer (pp. 613-623). Springer, Cham.
@@ -43,3 +41,5 @@ Simulations_](https://pubmed.ncbi.nlm.nih.gov/32251011/). Ear and Hearing 41:5, 
 
 3. European and diaspora minority languages
 - Diaspora Languages (eds. Coler & Nevins). Forthcoming. Language Science Press.
+
+[🏠](/index)
