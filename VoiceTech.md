@@ -34,6 +34,7 @@ An overview of the year-long MSc. program appears below.
 | Thesis Design          |        |        | x      |        |
 | Thesis Project         |        |        |        | x      |
 
+### Q&A
 Are you interested in the program or do you have any questions? Please contact the voice tech team at cf-vt@rug.nl
 
 [🏠](/index) [🤖](/VoiceTech) [🔬](/Research) [🎓](/Academia) [🗞](/News) [📧](/Contact)
