@@ -32,4 +32,4 @@ An overview of the year-long MSc. program appears below.
 | Thesis Design          |        |        | x      |        |
 | Thesis Project         |        |        |        | x      |
 
-Are you interested in the program or do you have any questions? Please contact us at cf-vt@rug.nl
+Are you interested in the program or do you have any questions? Please contact the team at cf-vt@rug.nl
