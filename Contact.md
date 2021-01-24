@@ -35,3 +35,7 @@ Links
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+
+
+[🏠](/index) [🤖](/VoiceTech) [🔬](/Research) [🎓](/Academia) [🗞](/News) [📧](/Contact)
