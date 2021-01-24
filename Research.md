@@ -15,7 +15,7 @@ This page outlines ongoing research and provides some examples of output related
 - Everhardt, M. K., Sarampalis, A., Coler, M., Ba¸skent, D., & Lowie, W. (2020). [Meta-Analysis
 on the Identification of Linguistic and Emotional Prosody in Cochlear Implant Users and Vocoder
 Simulations](https://pubmed.ncbi.nlm.nih.gov/32251011/). _Ear and Hearing_ 41:5, p. 1092-1102 11.
-- Everhardt, M. K., Sarampalis, A., Coler, M., Başkent, D., & Lowie, W. (2020). [_Processing of prosodically marked focus in a cochlear implant simulation by non-native listeners: Preliminary results_](https://asa.scitation.org/doi/10.1121/1.5147550). The Journal of the Acoustical Society of America, 148(4), 2721-2721.
+- Everhardt, M. K., Sarampalis, A., Coler, M., Başkent, D., & Lowie, W. (2020). [Processing of prosodically marked focus in a cochlear implant simulation by non-native listeners: Preliminary results](https://asa.scitation.org/doi/10.1121/1.5147550). _The Journal of the Acoustical Society of America_, 148(4), 2721-2721.
 
 
 3. Speech synthesis: synthesizing under-resourced languages with Phat Do (PhD researcher)
@@ -25,7 +25,7 @@ Simulations](https://pubmed.ncbi.nlm.nih.gov/32251011/). _Ear and Hearing_ 41:5,
 - Boswijk, V. & M. Coler (2020) [What is salience?](https://www.degruyter.com/view/journals/opli/6/1/article-p713.xml) _Open Linguistics_ 6(1). De Gruyter.
 
 2. Perception of musical rhythm in the Andes, AKA Andean anacrusis
-- Coler, M., Guyot, P., & Banegas-Flores, E. (2020). [_Verbal art as heuristic for semantic analyses._](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8660368) LIAMES: Línguas Indígenas Americanas, 20, e020011. 
+- Coler, M., Guyot, P., & Banegas-Flores, E. (2020). [Verbal art as heuristic for semantic analyses](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8660368). _LIAMES: Línguas Indígenas Americanas_, 20, e020011. 
 
 3. Sensory experiences (collaborative project with partners from the University of Toulouse, CNRS, and others)
 - Dubois, D., Cance, C., M. Coler &  A. Paté (in press). Exploring sensory experiences: A handbook on meaning & the senses. Benjamins.
