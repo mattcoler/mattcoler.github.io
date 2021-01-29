@@ -6,7 +6,7 @@ layout: default
 
 - Director, [Voice Technology Master's Program](mattcoler.github.io/VoiceTech)
 - Chair, Admissions Board of Voice Technology Master's program 
-- Chair, Admissions Board of Global Responsibility program 
+- Chair, Admissions Board of University College Fryslân 
 - Editorial Assistant, Probus Journal of Romance Linguistics
 - Open Access Ambassador for Campus Fryslân (2019–present)
 
