@@ -1,6 +1,6 @@
 ## Hello. 
 
-My name is Matt. I'm an Associate Professor Language & Technology and the Director of the [Voice Technology MSc.](/VoiceTech) at the University of Groningen Campus Fryslân. I am a linguist who works on voice technology, auditory perception, and minority languages. Check out my [research](/Research), [academic service](/Academia), and [news](/News). Connect with me [here](/Contact).
+My name is Matt. I'm an Associate Professor Language & Technology and the Director of the [Voice Technology MSc.](/VoiceTech) at the University of Groningen Campus Fryslân. I am a linguist who works on voice technology, auditory perception, and minority languages. Check out my [research](/Research), [professional roles](/Academia), and [news](/News). Connect with me [here](/Contact).
 
 ![test](Screen Shot 2021-01-20 at 3.09.13 PM.png)
 
