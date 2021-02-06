@@ -7,6 +7,7 @@ layout: default
 - Director, [Voice Technology Master's Program](mattcoler.github.io/VoiceTech)
 - Chair, Admissions Board of Voice Technology Master's program 
 - Chair, Admissions Board of University College Fryslân 
+- Board Member, Open Speech Technology Foundation ([Stichting Open Spraaktechnologie](https://openspraaktechnologie.org/))
 - Council Member, [Center for Research and Practice in Cultural Continuity](https://en.uw.edu.pl/centre-for-research-and-practice-in-cultural-continuity/), University of Warsaw
 - Editorial Assistant, Probus Journal of Romance Linguistics
 - Open Access Ambassador for Campus Fryslân (2019–present)
