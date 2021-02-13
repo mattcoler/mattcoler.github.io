@@ -3,7 +3,7 @@ layout: default
 ---
 # Voice Technology MSc. 
 
-The new Voice Technology Master's program is launched in 2021 at the University of Groningen, Campus Frsylân.  More info can be found at the links below:
+The new Voice Technology Master's program launched in 2021 at the University of Groningen, Campus Frsylân.  More info can be found at the links below:
 - [Description in Keystone](https://www.masterstudies.com/MSc-in-Voice-Technology/Netherlands/University-of-Groningen-Campus-Fryslan/) (including deadlines + costs)
 - [Program description and application](https://www.rug.nl/masters/voice-technology/)
 - [YouTube video](https://www.youtube.com/watch?v=297BY6uTHB8)
