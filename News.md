@@ -6,6 +6,7 @@ layout: default
 Popular articles and outreach activities are summarized chronologically below.
 
 ## 2021
+- Feb 13: Omrop Fryslân [Earste Europeeske 'pratende apparaten'-oplieding nei Ljouwert](https://nos.nl/regio/friesland/artikel/98299-eerste-europese-pratende-apparaten-opleiding-naar-leeuwarden) - Description of the Voice Tech Master's program (story was picked up by [NOS](https://nos.nl/regio/friesland/artikel/98299-eerste-europese-pratende-apparaten-opleiding-naar-leeuwarden)
 - Feb 11: Leeuwarder Courant [Alexa, Duolingo of Google Home: studenten van de nieuwe master voice technology weten er binnenkort alles van](https://www.lc.nl/friesland/leeuwarden/Alexa-Duolingo-of-Google-Home-studenten-van-de-nieuwe-master-voice-technology-weten-er-binnenkort-alles-van-26498916.html) - Blurb about the Voice Tech MSc. program 
 - Jan 22: Moderator for the [Common Voice Contribute-a-thon Dutch vs. Frisian challenge](https://foundation.mozilla.org/de/blog/8-day-dutch-and-frisian-common-voice-contribute-thon/)
 - Jan 21: Leeuwarder Courant [Veelbelovende spraaktechnologie moet je niet aan Silicon Valley overlaten](https://frieschdagblad.nl/2021/1/21/veelbelovende-spraaktechnologie-moet-je-niet-aan-silicon-valley-overlaten-want-dat-kan-ook-in-fryslan) - I was interviewed about voice technology, the new MSc program and cooperation between university and industry.
