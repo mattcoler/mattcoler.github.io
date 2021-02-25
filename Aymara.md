@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Aymara research
 
 ## Books
