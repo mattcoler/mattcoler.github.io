@@ -29,4 +29,4 @@ Banegas-Flores, E. & M. Coler, [Aymara](https://www.journals.uchicago.edu/doi/ab
 
 Coler, M. [The Grammatical Expression of Dialogicity in Muylaq’ Aymara Narratives](https://www.journals.uchicago.edu/doi/abs/10.1086/675424). _International Journal of American Linguistics_ 80(2): 241-265. 
 
-Coler, M. & E. Banegas-Flores. [A descriptive analysis of Castellano loanwords in Muylaq’ Aymara](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/1533). Línguas Indígenas Americanas 13-2013: 101-113. 
+Coler, M. & E. Banegas-Flores. [A descriptive analysis of Castellano loanwords in Muylaq’ Aymara](https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/1533). _Línguas Indígenas Americanas._ 13-2013: 101-113. 
