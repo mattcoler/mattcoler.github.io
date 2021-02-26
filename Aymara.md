@@ -17,9 +17,9 @@ Coler, M. (forthcoming). _Jaqaru._ In M. Urban, ed. “Oxford Guide to the Langu
 
 Coler, M., B. Kaal & E. Banegas-Flores (forthcoming). _Considering nayra ‘eye’ as an Aymara chronotope_. In R. Zariquiey & P. Valenzuela, eds.: “The grammar of body-part expressions: A view from the Americas”. Benjamins.
 
-Coler, M. (2015). Aymara inflection, in M. Baerman, ed.: [The Oxford Handbook of Inflection](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199591428.001.0001/oxfordhb-9780199591428). Oxford University Press. 
+Coler, M. (2015). _Aymara inflection_. In M. Baerman, ed.: [The Oxford Handbook of Inflection](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199591428.001.0001/oxfordhb-9780199591428). Oxford University Press. 
 
-Coler, M. & P. Homola (2014). Rule-based machine translation for Aymara, in M. Jones, ed.: [Endangered Languages and New Technologies](https://www.cambridge.org/core/books/endangered-languages-and-new-technologies/1CA62D65D0E1CCDF8F364909C8B83048). Cambridge University Press. pp. 67-80.
+Coler, M. & P. Homola (2014). _Rule-based machine translation for Aymara_. In M. Jones, ed.: [Endangered Languages and New Technologies](https://www.cambridge.org/core/books/endangered-languages-and-new-technologies/1CA62D65D0E1CCDF8F364909C8B83048). Cambridge University Press. pp. 67-80.
 
 ## Articles
 
