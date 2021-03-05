@@ -42,6 +42,7 @@ layout: default
 
 ## Selection Committee (2020)
 - University Warsaw (The Excellence Initiative - Research University): Postdoctoral Research position (03/2021)
+- University of Groningen (Faculty of Arts): Lecturer in Minority Studies (03/2021)
 
 ## PhD Defense Jury
 
