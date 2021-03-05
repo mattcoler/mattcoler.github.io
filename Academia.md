@@ -40,7 +40,7 @@ layout: default
 - Scientific Advisory Board, Scientific Advisory Board Member, Foundation ICT for Brain, Body & Behavior i3b Foundation, Wageningen
 - Chair, Committee Member and/or Panelist of multiple international conferences, including SLTUCCURL at LREC-2020 “Spoken language tech for under-resourced languages”, ICLaVE-10 “Diaspora languages” (2019), COLING “Language Tech for Minority Languages” (2018-2019), EvoStar2017, EuroNoise 2015 (soundscape session), Big Data CEEDS (2013) Google, London, etc.
 
-## Selection Committee (2020)
+## Selection Committee (2021)
 - University Warsaw (The Excellence Initiative - Research University): Postdoctoral Research position (03/2021)
 - University of Groningen (Faculty of Arts): Lecturer in Minority Studies (03/2021)
 
