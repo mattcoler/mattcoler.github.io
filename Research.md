@@ -37,7 +37,7 @@ Simulations](https://pubmed.ncbi.nlm.nih.gov/32251011/). _Ear and Hearing_ 41:5,
 - Dijkstra, B. E., Coler, M., & Redeker, G. (2020). [The multilingual workplace realities of Polish truckers: A case study in the Netherlands](https://www.degruyter.com/view/journals/mult/ahead-of-print/article-10.1515-multi-2020-0038/article-10.1515-multi-2020-0038.xml). _Multilingua._
 
 2. Andean languages, specifically Aymara
-- A complete overview of all my research on Aymara is [here](/Aymara)
+- All my research on Aymara is [here](/Aymara)
 
 3. European and diaspora minority languages
 - Diaspora Languages (eds. Coler & Nevins). Forthcoming. Language Science Press.
