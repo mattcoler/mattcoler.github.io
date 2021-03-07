@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-
-
 # Aymara publications
+
 
 ## Books
 
