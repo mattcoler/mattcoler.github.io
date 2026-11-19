@@ -12,57 +12,97 @@ listing:
   feed: true
 ---
 
-Talks, keynotes, awards and other updates. Filter by tag or search below.
+Talks, keynotes, awards and other updates. Filter them by type and topic, or search.
 
 ::: {#pub-chips .pub-chips}
 :::
 
 ```{=html}
 <script>
+// Tags listed here form the Type row; every other tag is a topic.
+var NEWS_TYPES = ["talk", "keynote", "media", "funding", "publications", "teaching"];
+// Display names for tags; anything missing just gets a capital first letter.
+var NEWS_LABELS = {
+  "ai-ethics": "AI ethics", "language-diversity": "Language diversity",
+  "multimodal-ai": "Multimodal AI", "research integrity": "Research integrity",
+  "publications": "Publication"
+};
+
 document.addEventListener("DOMContentLoaded", function () {
   var box = document.getElementById("pub-chips");
   var src = document.querySelectorAll(".quarto-listing-category .category");
   if (!box || !src.length) return;
   var tags = Array.prototype.map.call(src, function (el) { return el.textContent; });
-  var active = "";
+  var types = NEWS_TYPES.filter(function (t) { return tags.indexOf(t) >= 0; });
+  var topics = tags.filter(function (t) { return NEWS_TYPES.indexOf(t) < 0; });
+  var label = function (t) { return NEWS_LABELS[t] || t.charAt(0).toUpperCase() + t.slice(1); };
+  var active = { type: "", topic: "" };
+
   function apply() {
     var lists = window["quarto-listings"] || {};
     Object.keys(lists).forEach(function (id) {
       var list = lists[id];
       if (!list) return;
-      if (!active) { list.filter(); return; }
+      if (!active.type && !active.topic) { list.filter(); return; }
       list.filter(function (item) {
         var v = item.values().categories;
         var cats = v ? decodeURIComponent(atob(v)).split(",") : [];
-        return cats.indexOf(active) >= 0;
+        return (!active.type || cats.indexOf(active.type) >= 0) &&
+               (!active.topic || cats.indexOf(active.topic) >= 0);
       });
     });
   }
-  var wrap = document.createElement("div");
-  wrap.className = "pub-chip-row";
-  wrap.setAttribute("role", "group");
-  wrap.setAttribute("aria-label", "Filter by tag");
-  var lab = document.createElement("span");
-  lab.className = "pub-chip-label";
-  lab.textContent = "Tag";
-  wrap.appendChild(lab);
-  var buttons = [];
-  ["All"].concat(tags).forEach(function (t) {
-    var val = t === "All" ? "" : t;
-    var b = document.createElement("button");
-    b.type = "button";
-    b.textContent = t;
-    b.setAttribute("aria-pressed", val === "" ? "true" : "false");
-    b.addEventListener("click", function () {
-      active = val;
-      buttons.forEach(function (o) { o.setAttribute("aria-pressed", o === b ? "true" : "false"); });
-      apply();
+
+  function row(name, key, values) {
+    var wrap = document.createElement("div");
+    wrap.className = "pub-chip-row";
+    wrap.setAttribute("role", "group");
+    wrap.setAttribute("aria-label", "Filter by " + name.toLowerCase());
+    var lab = document.createElement("span");
+    lab.className = "pub-chip-label";
+    lab.textContent = name;
+    wrap.appendChild(lab);
+    var buttons = [];
+    [""].concat(values).forEach(function (val) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.textContent = val ? label(val) : "All";
+      b.setAttribute("aria-pressed", val === "" ? "true" : "false");
+      b.addEventListener("click", function () {
+        active[key] = val;
+        buttons.forEach(function (o) { o.setAttribute("aria-pressed", o === b ? "true" : "false"); });
+        apply();
+      });
+      buttons.push(b);
+      wrap.appendChild(b);
     });
-    buttons.push(b);
-    wrap.appendChild(b);
-  });
-  box.appendChild(wrap);
+    box.appendChild(wrap);
+  }
+
+  row("Type", "type", types);
+  row("Topic", "topic", topics);
   document.body.classList.add("has-pub-chips");
+
+  // Wide screens: chips and search sit in the right column. Phones get a toggle.
+  var side = document.getElementById("quarto-margin-sidebar");
+  var search = document.querySelector(".quarto-listing-filter");
+  if (side && window.matchMedia("(min-width: 992px)").matches) {
+    if (search) box.insertBefore(search, box.firstChild);
+    side.insertBefore(box, side.firstChild);
+    document.body.classList.add("pub-chips-side");
+  } else {
+    var det = document.createElement("details");
+    det.className = "pub-chips-toggle";
+    var sum = document.createElement("summary");
+    sum.textContent = "Filter by type and topic";
+    det.appendChild(sum);
+    Array.prototype.slice.call(box.querySelectorAll(".pub-chip-row")).forEach(function (r) { det.appendChild(r); });
+    box.appendChild(det);
+    box.addEventListener("click", function () {
+      var picked = (active.type ? 1 : 0) + (active.topic ? 1 : 0);
+      sum.textContent = "Filter by type and topic" + (picked ? " (" + picked + " on)" : "");
+    });
+  }
 });
 </script>
 ```
