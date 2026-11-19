@@ -1,16 +1,12 @@
 ---
-title: "Standing to Be Heard"
-description: "Online keynote at *Human in the Age of Algorithms*, Ege University, İzmir."
+title: "Standing to Be Heard — Keynote at Ege University"
 date: 2026-11-04
 categories: [ai-ethics, keynote, language-diversity, talk]
 image: https://i.postimg.cc/7ZFL3CMF/Standing-To-Be-Heard-Keynote.jpg
-aliases:
-  - /standing-to-be-heard-ege-university/
 ---
+On November 4 2026, I gave the online keynote "Standing to Be Heard: Speech Technology and the Community of Speakers" at Human in the Age of Algorithms, a hybrid conference hosted by Ege University in İzmir.
 
-On 4 November 2026, I gave the online keynote "Standing to Be Heard: Speech Technology and the Community of Speakers" at *Human in the Age of Algorithms*, a hybrid conference hosted by Ege University in İzmir.
-
-The talk picks up where [Who Governs the Spoken Word?](../2026-06-09-who-governs/index.qmd) left off in Warsaw. There I mapped the governance gaps around speech tech for minoritized languages. Here I propose a way to close one of them.
+The talk picks up where [Who Governs the Spoken Word?](../2026-06-09-marginalized-knowledge-systems-warsaw/index.qmd) left off in Warsaw. There I mapped the governance gaps around speech tech for minoritized languages. Here I propose a way to close one of them.
 
 > Speech technology decides who gets heard in public agencies, classrooms and courts. The law governing it was written earlier, for other problems, and assumes the claimant is an individual with a grievance. But when speech technology fails, it fails everyone who speaks a given way. The law recognizes the harm but not the claimant.
 >
@@ -18,6 +14,7 @@ The talk picks up where [Who Governs the Spoken Word?](../2026-06-09-who-governs
 >
 > I argue for a category the law does not have: the community of speakers as a rights-holder, entitled to consultation before deployment, consent over the corpus, and standing to be heard once a system runs.
 
-![Standing to Be Heard keynote](https://i.postimg.cc/7ZFL3CMF/Standing-To-Be-Heard-Keynote.jpg)
+Thanks to the organizers for the invitation.
+![Standing to Be Heard keynote at Ege University](https://i.postimg.cc/7ZFL3CMF/Standing-To-Be-Heard-Keynote.jpg)
 
-![Keynote at Ege University](https://i.postimg.cc/T1Z9SFJM/Screenshot-2026-11-04-at-13-07-17.png)
+![certificate](https://i.postimg.cc/T1Z9SFJM/Screenshot-2026-11-04-at-13-07-17.png)

@@ -34,7 +34,7 @@ How speech and language technologies can be developed responsibly while respecti
 ## Talks and events
 
 - **2026**: *Standing to Be Heard: Speech Technology and the Community of Speakers*. Online keynote, *Human in the Age of Algorithms*, Ege University, İzmir
-- **2026**: [*Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law*](posts/2026-06-09-who-governs/index.qmd). AI & Marginalized Knowledge Systems workshop, University of Warsaw
+- **2026**: [*Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law*](posts/2026-06-09-marginalized-knowledge-systems-warsaw/index.qmd). AI & Marginalized Knowledge Systems workshop, University of Warsaw
 - **2026**: *Ethical Implications of AI in Research Assessment*
 - **2026**: Invited Panelist, *Skills Meet Tools: Mastering AI*. European Commission Inter-institutional Relations and Outreach, Brussels
 - **2024**: Co-organizer, *Exploring the Dark Side of Future Language Technologies: Linguistic (In)security, Ethics, and Privacy in the Human–Machine Era*

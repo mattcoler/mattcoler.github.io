@@ -1,0 +1,20 @@
+---
+title: "Billion-Dollar Voices and Minority Languages — Keynote at the University of Warsaw Winter Innovation School"
+date: 2025-12-15
+categories: [keynote, language-diversity, talk]
+image: https://i.postimg.cc/655f2TcL/Screenshot-2026-08-07-at-22-53-26.png
+---
+On 15 December 2025, I gave the keynote **“Billion-Dollar Voices and Minority Languages: The Promise and Challenge of Speech Technology”** at the University of Warsaw Winter Innovation School, *At the Heart of Artificial Intelligence Research*.
+
+The Winter Innovation School brought together doctoral researchers to explore emerging approaches to innovation and artificial intelligence. My keynote focused on a central challenge in the development of modern speech technology: while recent advances have enabled remarkable progress for major world languages, thousands of languages remain largely absent from the digital ecosystem.
+
+Companies developing cutting-edge voice AI systems have demonstrated that highly natural synthetic voices and conversational AI are now possible at an unprecedented scale. The challenge is ensuring that these innovations do not widen existing digital divides, but instead contribute to linguistic diversity and equal access to technology.
+
+In this talk, I explored how advances in machine learning, combined with linguistic knowledge and community-driven approaches, can enable speech technology for languages with limited digital resources. Using examples from low-resource speech synthesis and recognition, I discussed how interdisciplinary research can transform technical challenges into opportunities for innovation and cultural preservation.
+
+The future of voice AI will not only be measured by how well it performs for the world’s largest languages, but also by whether it can serve the many communities whose languages have historically been overlooked.
+
+![Keynote at the University of Warsaw Winter Innovation School](https://i.postimg.cc/655f2TcL/Screenshot-2026-08-07-at-22-53-26.png)
+![photo2](https://i.postimg.cc/4x0PTZzr/Screenshot-2026-08-07-at-22-51-58.png)
+![photo3](https://i.postimg.cc/YSm3rV3s/Screenshot-2026-08-07-at-22-51-01.png)
+![photo4](https://i.postimg.cc/vZKhdMWJ/Screenshot-2026-08-07-at-22-51-11.png)

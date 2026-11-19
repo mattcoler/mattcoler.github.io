@@ -1,0 +1,22 @@
+---
+title: "Speech Technology as Interdisciplinary Science — Centre Q Lecture at the University of Warsaw"
+date: 2025-12-16
+categories: [ai-ethics, language-diversity, talk]
+image: https://i.postimg.cc/286Xp0sN/Screenshot-2026-08-07-at-23-11-20.png
+---
+On 16 December 2025, I gave a lecture entitled **“Speech Technology as Interdisciplinary Science”** at Centre Q — the Centre for Research on Culture, Language and Mind at the University of Warsaw.
+
+Artificial intelligence has revolutionized speech synthesis, yet these breakthroughs remain largely concentrated on a small number of major world languages. In this lecture, I explored the history of speech technology through an interactive journey from Wolfgang von Kempelen’s 18th-century speaking machine to contemporary neural architectures, examining how each era has reimagined what speech fundamentally is: physical resonance, encoded information, or learnable patterns.
+
+Through examples from current research on low-resource languages, I discussed how modern speech technology can extend beyond major languages and support linguistic diversity. Live demonstrations showed how languages with limited digital resources can achieve increasingly natural speech synthesis with innovative machine learning approaches.
+
+The lecture also explored deeper questions about the relationship between human communication and technology:
+
+> What transforms when voice moves from embodied cultural practice to decontextualized acoustic reproduction?
+> When lived stimulation becomes technological stimulus?
+
+These questions highlight why speech technology increasingly requires contributions from the social sciences and humanities—not as auxiliary perspectives, but as essential ways of understanding what technological progress and breakthrough actually mean.
+
+More information about this event: [Centre for Research on Culture, Language and Mind, University of Warsaw](https://centrumq.uw.edu.pl/en/2025/12/lecture-by-matt-coler/)
+
+![Lecture on Speech Technology as Interdisciplinary Science at the University of Warsaw](https://i.postimg.cc/286Xp0sN/Screenshot-2026-08-07-at-23-11-20.png)

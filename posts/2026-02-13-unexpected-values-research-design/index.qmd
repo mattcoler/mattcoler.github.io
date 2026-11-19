@@ -1,0 +1,18 @@
+---
+title: "Board Games Against the Machine"
+date: 2026-02-13
+categories: [ai-ethics, teaching]
+image: https://i.postimg.cc/MHRFXQLd/Screenshot-2026-09-08-at-15-24-53.png
+---
+In February 2026 I ran a session of [UnExpected Values: From Dystopia to Utopia](https://www.rug.nl/jantina-tammes-school/education/game-unexpected-values/) in Research Design, the thesis preparation course for the MSc Speech Technology. The Jantina Tammes School has since written it up as a [case study](https://www.rug.nl/jantina-tammes-school/education/game-unexpected-values/case-studies/making-ethical-tensions-tangible-in-speech-technology-education).
+
+The reason for the change was partly pedagogical and partly defensive. Ethics in a thesis course tends to arrive as a written reflection, and a written reflection on ethical trade-offs is precisely the kind of text a language model produces fluently, at length, and without anyone having thought anything. You get competent paragraphs about fairness and consent that could have been written about any project at all. What a model cannot do for you is have an ethical debate in the classroom.
+
+So that is what we did. We used the [speech technology dilemma cards](https://www.rug.nl/jantina-tammes-school/education/game-unexpected-values/dilemmas-speech-tech/), which is what makes this version of the game land with these students: the dilemmas are theirs. The Synthetic Shortcut, Revenge of the Clones, Accent Bias Fix, The Invisible Recorder — not distant hypotheticals for people about to write a thesis on synthesis or ASR. Each student took a card, read it out, staked a position, and defended it. QR codes on the cards link to the real cases behind them, so nobody could retreat into the abstract.
+
+The interesting part was watching confident positions soften once someone pushed back. Ethical compromise in research rarely arrives as a temptation to do something wrong. It arrives as a deadline, a dataset that is available rather than appropriate, a metric that is easy to report. You see that faster when a classmate names it than when you write it down alone.
+
+
+The game is free to [download, print, and play](https://drive.google.com/drive/folders/1s8lGKkdVUaD_pSZ8eFjfpIFH9-C9w-LS) if you want to run something similar.
+
+![poster](https://i.postimg.cc/MHRFXQLd/Screenshot-2026-09-08-at-15-24-53.png)

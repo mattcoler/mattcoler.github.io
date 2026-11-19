@@ -1,0 +1,13 @@
+---
+title: "Voice AI Knows What You Say But Not What You Mean"
+date: 2026-05-26
+categories: [ai-ethics, talk]
+image: https://i.postimg.cc/x8774dHc/ai.png
+---
+Voice AI Space is a global community of builders, founders, and researchers exploring how machines listen, speak, and interact with people; Amsterdam followed earlier meetups in Barcelona, London, Dubai, Paris, and New York. The evening mixed networking with short talks and live demos from people building across the voice AI stack.
+
+My talk addressed one of voice AI's harder open problems: getting systems to understand not just what people say, but what they mean. Sarcasm is a useful test case for this kind of work, since resolving it means weighing tone, timing, and context against the words themselves as opposed to the words "alone"; our research approaches this by combining speech, text, and vision, since sarcasm often shows up in one channel and not the others.
+
+It's a different kind of room than an academic conference: builders and researchers comparing notes, in real time, on what actually holds up when these systems meet real users.
+
+![symbol](https://i.postimg.cc/x8774dHc/ai.png)

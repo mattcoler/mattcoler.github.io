@@ -1,0 +1,15 @@
+---
+title: "What Makes Synthetic Speech Sound Sarcastic? (Interspeech 2026)"
+date: 2026-09-30
+categories: [multimodal-ai, talk]
+image: https://i.postimg.cc/3JpcJXD3/Screenshot-2026-09-30-at-16-48-52.png
+---
+Today at Interspeech 2026 in Sydney, we presented *What Makes Synthetic Speech Sound Sarcastic? A Prosody-Controlled Perception Study*, with Zhu Li and Shekhar Nayak.
+
+Prosody is a big part of how we hear sarcasm. But in natural speech the cues move together: a speaker slows down, gets louder and shifts their pitch all at once, so it's hard to say which one listeners are actually picking up on. We got around that by using neural TTS to vary speech rate, pitch variation and loudness independently, then asked listeners how sarcastic and how natural each clip sounded.
+
+For people, loudness did most of the work. We ran the same clips through an audio-capable foundation model, and it leaned on speech rate instead. The model reaches similar judgments by a different route than humans do, which is worth knowing before anyone trusts these systems to read tone of voice.
+
+The paper is on [arXiv](https://arxiv.org/abs/2606.09717). It's part of our wider work on [sarcasm and multimodal voice AI](../../research.qmd).
+
+![Dr Shekhar Nayak presenting What Makes Synthetic Speech Sound Sarcastic? at Interspeech 2026 in Sydney](https://i.postimg.cc/3JpcJXD3/Screenshot-2026-09-30-at-16-48-52.png)

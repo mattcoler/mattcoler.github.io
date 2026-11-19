@@ -1,0 +1,21 @@
+---
+title: "The Governance Gap in AI for Minoritized Languages"
+date: 2026-09-14
+categories: [ai-ethics, language-diversity, talk]
+image: https://i.postimg.cc/prMdd280/Screenshot-2026-09-14-at-09-29-31.png
+---
+On 14 September 2026, I gave a guest lecture, "The Governance Gap in AI for Minoritized Languages," opening a working meeting of the AI Ad Hoc Committee of [PLURILINGMEDIA](https://plurilingmedia.eu/), a COST Action on media in Europe's regional and minority languages.
+
+When an AI system performs badly in a minoritized language, hardly anyone can do anything about it: not the individual speaker,
+not the language community, not the state. Two EU instruments come up short. The AI Act is binding and enforceable but says nothing
+about language. The European Charter for Regional or Minority Languages names language as a protected interest but has no enforcement behind it.
+
+I wrapped up with three recommendations: one turns on a regulator's interpretive choice, one on the AI Act review already scheduled for 2028, and one on a registration mechanism that has never been applied to language.
+
+The committee moved straight from the lecture into
+planning its October meeting, so the aim was to leave them with something to draft.
+
+This talk stems from another one I gave in June in Warsaw, entitled
+[Who Governs the Spoken Word?](../2026-06-09-marginalized-knowledge-systems-warsaw/index.qmd)
+
+![Guest lecture to the PLURILINGMEDIA AI Ad Hoc Committee](https://i.postimg.cc/prMdd280/Screenshot-2026-09-14-at-09-29-31.png)

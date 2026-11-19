@@ -1,0 +1,15 @@
+---
+title: "Two years as Interspeech Ethics Chair"
+date: 2026-10-01
+categories: [ai-ethics]
+image: https://i.postimg.cc/BvGdnRtF/Matt-IS26.jpg
+---
+Interspeech 2026 is wrapping up in Sydney. I followed it from Amsterdam.
+
+A friend in the audience sent me this photo from the committee acknowledgements: the organizing team lined up on stage, each role taking its turn on the big screen. Ethics got its turn too, even with its chair half a world away.
+
+I've served as Ethics Chair for Interspeech 2025 and 2026. Most of that work happens out of sight: reviewing papers with ethics concerns, drafting policy, writing the occasional delicate email. It's good to see it recognized alongside everything else that makes a conference this size run.
+
+Thanks to the Sydney team for a great conference, and to everyone who answered ethics queries with patience over these two years.
+
+[![The Interspeech 2026 organizing committee on stage in Sydney during the committee acknowledgements](https://i.postimg.cc/BvGdnRtF/Matt-IS26.jpg)](https://postimg.cc/gxNMMSVc)

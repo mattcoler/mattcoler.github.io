@@ -1,0 +1,13 @@
+---
+title: "AI Understands You? Yeah, Right — Featured in IBM Think"
+date: 2026-06-11
+categories: [media, multimodal-ai]
+image: https://i.postimg.cc/8z0d9PpJ/Screenshot-2026-08-13-at-17-05-38.png
+---
+Our sarcasm research was featured in IBM Think, in a piece on why AI still struggles to catch sarcasm — and why that's a problem for AI in customer-facing roles.
+
+The piece draws on our work with Xiyuan Gao, now a newly minted PhD graduate, and Shekhar Nayak: our survey of the field, and the augmented multimodal datasets we've built for sarcasm detection.
+
+Read it here: [AI understands you? Yeah, right](https://www.ibm.com/think/news/ai-understands-you-yeah-right)
+
+![image](https://i.postimg.cc/8z0d9PpJ/Screenshot-2026-08-13-at-17-05-38.png)

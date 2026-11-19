@@ -1,0 +1,13 @@
+---
+title: "Ethical Implications of AI in Research Assessment"
+date: 2026-06-12
+categories: [ai-ethics, research integrity, talk]
+image: https://i.postimg.cc/2SyzX0t2/Screenshot-2026-08-13-at-15-57-20.png
+---
+On 12 June 2026, I gave a talk, **"Ethical Implications of AI in Research Assessment,"** as part of the [CoARA Spotlight](https://www.coara.org/news/project-news/coara-spotlight-series-spring-2026/) series, speaking from my work with the [Working Group Ethics and Research Integrity Policy in Responsible Research Assessment for Data and Artificial Intelligence (WG ERIP)](https://www.coara.org/working-groups/wg-erip/).
+
+The talk built on the [ERIP essay](https://zenodo.org/records/17433296), co-authored with Susanne van den Hooff, and the [October 2025 ERIP whitepaper on AI-driven science futures](https://zenodo.org/records/17435545). From that starting point, I covered three things that look different from a 2026 vantage point: the new empirical evidence on LLM-assisted peer review coming out of AAAI and NeurIPS, what the EU AI Act's 2 August 2026 high-risk deadline means for institutions, and the infrastructure CoARA-ERIP is shipping in response.
+
+A Q&A followed, turning to what the CoARA community should do about all of this in the year ahead.
+
+![spotlight](https://i.postimg.cc/2SyzX0t2/Screenshot-2026-08-13-at-15-57-20.png)

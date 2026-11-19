@@ -1,0 +1,13 @@
+---
+title: "PLURILINGMEDIA ad hoc group for AI in Valletta, Malta"
+date: 2026-10-06
+categories: [ai-ethics, language-diversity, talk]
+image: https://i.postimg.cc/fknrxr84/Screenshot-2026-10-08-at-12-13-35.png
+---
+On 5–6 October 2026, I joined the AI Ad Hoc Committee of [PLURILINGMEDIA](https://plurilingmedia.eu/) in Valletta for its working meeting, hosted by Claudia Borg at the University of Malta.
+
+The meeting picked up where my September lecture, [The Governance Gap in AI for Minoritized Languages](../2026-09-14-plurilingmedia-ai-committee/index.qmd), left off. That talk argued that when AI fails a minoritized language, hardly anyone can act on it. In Valletta the committee started turning that problem into something it can recommend.
+
+Each of us brought one slide on the AI development most affecting media in our language, and we compared notes with colleagues from NPLD and MIDAS. The second day went to drafting shared principles for AI in minority-language media and planning the committee's final report.
+
+![PLURILINGMEDIA AI Ad Hoc Committee in Valletta](https://i.postimg.cc/fknrxr84/Screenshot-2026-10-08-at-12-13-35.png)

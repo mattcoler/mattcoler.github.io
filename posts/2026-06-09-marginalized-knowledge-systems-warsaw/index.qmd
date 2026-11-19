@@ -1,19 +1,15 @@
 ---
-title: "Who Governs the Spoken Word?"
-description: "Speech tech, minoritized languages, and the limits of AI law. Talk at the University of Warsaw."
+title: "Who Governs the Spoken Word? (U Warsaw)"
 date: 2026-06-09
 categories: [ai-ethics, language-diversity, talk]
-image: https://i.postimg.cc/cHJdqrKR/Screenshot-2026-08-13-at-15-08-54.png
-aliases:
-  - /marginalized-knowledge-systems-warsaw/
+image: https://i.postimg.cc/wvB9K7th/wawa1.png
 ---
-
 On 9 June 2026, I gave a talk, "Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law," at the [AI & Marginalized Knowledge Systems: Challenges for Research and Society workshop](https://filozofia.uw.edu.pl/2026/06/ai-marginalized-knowledge-systems-challenges-for-research-and-society/) at the University of Warsaw.
 
 The workshop was organized as part of the seminar series of the Center for Research and Practice in Cultural Continuity, where I serve as a board member. It brought together researchers working on the relationship between AI and marginalized knowledge systems: minority languages, cultural heritage, and the ethical and social questions raised by new technologies.
 
 My talk examined the governance gaps that open up when speech technology extends into minoritized languages: who has standing to build, deploy, and regulate these systems, and where existing frameworks for language rights and AI law fail to anticipate the vulnerabilities of small speech communities.
 
-![Workshop programme](https://i.postimg.cc/wvB9K7th/wawa1.png)
 
-![Slide from the talk](https://i.postimg.cc/cHJdqrKR/Screenshot-2026-08-13-at-15-08-54.png)
+![plan](https://i.postimg.cc/wvB9K7th/wawa1.png)
+![slide](https://i.postimg.cc/cHJdqrKR/Screenshot-2026-08-13-at-15-08-54.png)

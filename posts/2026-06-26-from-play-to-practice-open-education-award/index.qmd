@@ -1,0 +1,12 @@
+---
+title: "From Play to Practice: Open Education Award"
+date: 2026-06-26
+categories: [funding, teaching]
+---
+My project "From Play to Practice" has been awarded the [Open Education Incubator Fund by the Teaching Academy Groningen](https://www.rug.nl/about-ug/organization/service-departments/teaching-academy-groningen/grants-support/open-education-incubator-fund?lang=en).
+
+The premise: you can learn serious research skills by playing games. My MSc Speech Technology Research Design course already runs on game-based activities — a board game about research values, a LEGO reproducibility challenge, card-based ethics dilemmas — and the award lets me turn them into standalone, openly licensed resources any educator can pick up and run.
+
+Students help build the materials, proposing new dilemmas and scenarios that carry forward to future cohorts, and everything ships under CC BY-SA, free to reuse and adapt. Thanks to the Open Education Community of Practice and my co-applicant Angelos Konstantinidis.
+
+Read the Open Education vision [here](https://drive.google.com/file/d/1XWWVPmlfLpUD-k20l96815vvwcbtQcdz/view)
