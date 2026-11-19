@@ -11,7 +11,7 @@ How speech and language technologies can be developed responsibly while respecti
 ## Leadership and governance roles
 
 - **2027**: Ethics Chair, [IEEE ASLI 2027](https://2027.ieeeasli.org/organizing-committee/) (IEEE International Conference on Audio, Speech, and Language Intelligence), Singapore
-- **2025–2026**: Ethics Chair, INTERSPEECH, overseeing ethical standards for the field's largest conference
+- **2025–2026**: [Ethics Chair, INTERSPEECH](posts/2026-10-01-interspeech-2026-ethics-2026/index.qmd), overseeing ethical standards for the field's largest conference
 - **2025–2026**: Chair, ISCA Ethics Committee
 - **2025–present**: Management Committee Member, GRADE COST Action CA21141, shaping AI ethics and governance policy as Netherlands representative
 - **2023–present**: Working Group Member, Coalition for Advancing Research Assessment (CoARA), *Ethics and Research Integrity Policy in Responsible Research Assessment for Data and Artificial Intelligence*
@@ -33,9 +33,9 @@ How speech and language technologies can be developed responsibly while respecti
 
 ## Talks and events
 
-- **2026**: *Standing to Be Heard: Speech Technology and the Community of Speakers*. Online keynote, *Human in the Age of Algorithms*, Ege University, İzmir
+- **2026**: [*Standing to Be Heard: Speech Technology and the Community of Speakers*](posts/2026-11-04-standing-to-be-heard-ege-university/index.qmd). Online keynote, *Human in the Age of Algorithms*, Ege University, İzmir
 - **2026**: [*Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law*](posts/2026-06-09-marginalized-knowledge-systems-warsaw/index.qmd). AI & Marginalized Knowledge Systems workshop, University of Warsaw
-- **2026**: *Ethical Implications of AI in Research Assessment*
+- **2026**: [*Ethical Implications of AI in Research Assessment*](posts/2026-06-12-coara-spotlight-ai-research-assessment/index.qmd). CoARA Spotlight series
 - **2026**: Invited Panelist, *Skills Meet Tools: Mastering AI*. European Commission Inter-institutional Relations and Outreach, Brussels
 - **2024**: Co-organizer, *Exploring the Dark Side of Future Language Technologies: Linguistic (In)security, Ethics, and Privacy in the Human–Machine Era*
 - **2023–2026**: Co-organizer, Dutch Speech Tech Days
