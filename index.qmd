@@ -35,6 +35,7 @@ listing:
   <a href="https://orcid.org/0000-0002-7631-5063" title="ORCID" aria-label="ORCID"><span class="orcid-id" aria-hidden="true">iD</span></a>
   <a href="https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
   <a href="https://www.linkedin.com/in/mcoler/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin" aria-hidden="true"></i></a>
+  <a href="https://fediscience.org/@mattcoler" rel="me" title="Mastodon" aria-label="Mastodon"><i class="bi bi-mastodon" aria-hidden="true"></i></a>
   <a href="mailto:m.coler@rug.nl" title="Email" aria-label="Email m.coler@rug.nl"><i class="bi bi-envelope" aria-hidden="true"></i></a>
 </div>
 </div>
