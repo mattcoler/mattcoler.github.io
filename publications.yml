@@ -1,0 +1,688 @@
+# One entry per publication. Pages sort by year, newest first; within a year, file order counts,
+# so add new papers at the TOP of their year. The home page shows the first three.
+# Every entry needs exactly one type and at least one topic (the build checks this).
+# Types: Journal article, Conference paper, Book chapter, Book, Preprint, Report, Patent, Dataset.
+# Types are listed in publications.qmd; every other category becomes a topic chip.
+# Category names cannot contain commas. Add `url:` for a link on the title.
+# Titles, years, venues and DOIs verified against Crossref, ACL Anthology, publisher pages (Nov 2026).
+
+
+# ---------- 2026 ----------
+- title: "Improving low-resource ASR using bilingual fine-tuning with language identification: A cross-linguistic evaluation"
+  authors: "Amooie, R., Hao, Y., de Vries, W., Dijkstra, J., Coler, M. & Wieling, M."
+  venue: "SPEAKABLE Workshop @ LREC 2026, 132–138"
+  year: 2026
+  url: https://doi.org/10.63317/39snpbvopu74
+  categories: [Conference paper, Low-resource speech]
+
+- title: "What makes synthetic speech sound sarcastic? A prosody-controlled perception study"
+  authors: "Li, Z., Nayak, S. & Coler, M."
+  venue: "Interspeech 2026, Sydney"
+  year: 2026
+  url: https://doi.org/10.21437/interspeech.2026-1487
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Modeling sarcastic speech: Semantic and prosodic cues in a speech synthesis framework"
+  authors: "Li, Z., Zhang, Y., Gao, X., Nayak, S. & Coler, M."
+  venue: "Proceedings of the Annual Meeting of the Cognitive Science Society, 48 (CogSci 2026, Rio de Janeiro)"
+  year: 2026
+  url: https://escholarship.org/uc/item/3tb2f6sd
+  categories: [Conference paper, Multimodal AI]
+
+- title: "AMuSeD: An attentive deep neural network for multimodal sarcasm detection incorporating bimodal data augmentation"
+  authors: "Gao, X., Bansal, S., Gowda, K., Li, Z., Nayak, S., Kumar, N. & Coler, M."
+  venue: "IEEE Transactions on Affective Computing, 17(1), 900–912"
+  year: 2026
+  url: https://doi.org/10.1109/taffc.2025.3639406
+  categories: [Journal article, Multimodal AI]
+
+- title: "SarcasmMiner: A dual-track post-training framework for robust audio-visual sarcasm reasoning"
+  authors: "Li, Z., Chen, Y., Lai, H., Gao, X., Nayak, S. & Coler, M."
+  venue: "arXiv:2603.05275"
+  year: 2026
+  url: https://arxiv.org/abs/2603.05275
+  categories: [Preprint, Multimodal AI]
+
+- title: "A neural model for CDST: Resonance, attunement, and prosodic transfer in L2 development"
+  authors: "Harding, E. & Coler, M."
+  venue: "Dutch Journal of Applied Linguistics, 15"
+  year: 2026
+  url: https://doi.org/10.51751/dujal27654
+  categories: [Journal article, Prosody]
+
+- title: "Investigating musical pitch as a cue for resolving prosodic stress ambiguity in artificial speech: Evidence from Dutch and Chinese listeners"
+  authors: "Kargakis, A., Harding, E., Coler, M. & Lowie, W."
+  venue: "PsyArXiv preprint"
+  year: 2026
+  url: https://doi.org/10.31234/osf.io/9qkt5_v2
+  categories: [Preprint, Prosody]
+
+- title: "Precision-weighting across domains: A predictive coding framework for language-music integration under uncertainty"
+  authors: "Kargakis, A., Harding, E., Coler, M. & Lowie, W."
+  venue: "PsyArXiv preprint"
+  year: 2026
+  url: https://doi.org/10.31234/osf.io/qjbfy_v1
+  categories: [Preprint, Prosody]
+
+
+# ---------- 2025 ----------
+- title: "MCSD 1.0: Multimodal Chinese Sarcasm Dataset"
+  authors: "Gao, X., Wang, B.X., Zhang, M., Huang, S., Li, Z., Nayak, S. & Coler, M."
+  venue: "DataverseNL, version 1.0 (CC BY-NC 4.0). Introduced in Gao et al., Interspeech 2025"
+  year: 2025
+  url: https://doi.org/10.34894/A0NLTQ
+  categories: [Dataset, Multimodal AI]
+
+- title: "Evaluating multimodal large language models on spoken sarcasm understanding"
+  authors: "Li, Z., Gao, X., Zhang, Y., Nayak, S. & Coler, M."
+  venue: "arXiv:2509.15476"
+  year: 2025
+  url: https://arxiv.org/abs/2509.15476
+  categories: [Preprint, Multimodal AI]
+
+- title: "The Blizzard Challenge 2025"
+  authors: "Do, P., Coler, M., Dijkstra, J., Marchenko, I., Verkhodanova, V. & Le Maguer, S."
+  venue: "Proceedings of the Blizzard Challenge 2025"
+  year: 2025
+  url: https://doi.org/10.21437/blizzard.2025-1
+  categories: [Conference paper, Low-resource speech]
+
+- title: "Enhancing standard and dialectal Frisian ASR: Multilingual fine-tuning and language identification for improved low-resource performance"
+  authors: "Amooie, R., de Vries, W., Hao, Y., Dijkstra, J., Coler, M. & Wieling, M."
+  venue: "ICASSP 2025"
+  year: 2025
+  url: https://doi.org/10.1109/icassp49660.2025.10889692
+  categories: [Conference paper, Low-resource speech]
+
+- title: "A multimodal Chinese dataset for cross-lingual sarcasm detection"
+  authors: "Gao, X., Wang, B.X., Zhang, M., Huang, S., Li, Z., Nayak, S. & Coler, M."
+  venue: "Interspeech 2025, 3968–3972"
+  year: 2025
+  url: https://doi.org/10.21437/interspeech.2025-1632
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Intra-modal relation and emotional incongruity learning using graph attention networks for multimodal sarcasm detection"
+  authors: "Raghuvanshi, D., Gao, X., Li, Z., Bansal, S., Coler, M., Kumar, N. & Nayak, S."
+  venue: "ICASSP 2025"
+  year: 2025
+  url: https://doi.org/10.1109/ICASSP49660.2025.10887864
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Integrating feedback loss from bi-modal sarcasm detector for sarcastic speech synthesis"
+  authors: "Li, Z., Zhang, Y., Gao, X., Raghuvanshi, D., Kumar, N., Nayak, S. & Coler, M."
+  venue: "13th ISCA Speech Synthesis Workshop (SSW 2025)"
+  year: 2025
+  url: https://doi.org/10.21437/ssw.2025-23
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Spoken in jest, detected in earnest: A systematic review of sarcasm recognition—multimodal fusion, challenges, and future prospects"
+  authors: "Gao, X., Nayak, S. & Coler, M."
+  venue: "IEEE Transactions on Affective Computing"
+  year: 2025
+  url: https://doi.org/10.1109/taffc.2025.3612205
+  categories: [Journal article, Multimodal AI]
+
+- title: "Leveraging large language models for sarcastic speech annotation in sarcasm detection"
+  authors: "Li, Z., Zhang, Y., Gao, X., Nayak, S. & Coler, M."
+  venue: "Interspeech 2025"
+  year: 2025
+  url: https://doi.org/10.21437/interspeech.2025-2074
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Overcoming data scarcity in multi-dialectal Arabic ASR via Whisper fine-tuning"
+  authors: "Özyilmaz, Ö.T., Coler, M. & Valdenegro-Toro, M."
+  venue: "Interspeech 2025"
+  year: 2025
+  url: https://doi.org/10.21437/interspeech.2025-2260
+  categories: [Conference paper, Low-resource speech]
+
+
+# ---------- 2024 ----------
+- title: "Meta learning text-to-speech synthesis in over 7000 languages"
+  authors: "Lux, F., Meyer, S., Behringer, L., Zalkow, F., Do, P., Coler, M., Habets, E.A.P. & Vu, N.T."
+  venue: "Interspeech 2024"
+  year: 2024
+  url: https://doi.org/10.21437/interspeech.2024-1335
+  categories: [Conference paper, Low-resource speech]
+
+- title: "A functional trade-off between prosodic and semantic cues in conveying sarcasm"
+  authors: "Li, Z., Gao, X., Zhang, Y., Nayak, S. & Coler, M."
+  venue: "Interspeech 2024"
+  year: 2024
+  url: https://doi.org/10.21437/interspeech.2024-1962
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Lexical stress identification in cochlear implant-simulated speech by non-native listeners"
+  authors: "Everhardt, M.K., Sarampalis, A., Coler, M., Başkent, D. & Lowie, W."
+  venue: "Language and Speech, 67(4), 1075–1092"
+  year: 2024
+  url: https://doi.org/10.1177/00238309231222207
+  categories: [Journal article, Prosody]
+
+- title: "Fine-tuning strategies for Dutch dysarthric speech recognition: Evaluating the impact of healthy, disease-specific, and speaker-specific data"
+  authors: "Leivaditi, S., Matsushima, T., Coler, M., Nayak, S. & Verkhodanova, V."
+  venue: "Interspeech 2024, 1295–1299"
+  year: 2024
+  url: https://doi.org/10.21437/interspeech.2024-1231
+  categories: [Conference paper, Prosody]
+
+- title: "Aymara"
+  authors: "Coler, M."
+  venue: "In M. Urban (ed.), The Oxford Guide to the Languages of the Central Andes, 219–244. Oxford University Press"
+  year: 2024
+  url: https://doi.org/10.1093/oso/9780198849926.003.0008
+  categories: [Book chapter, Andean languages]
+
+- title: "Improving sarcasm detection from speech and text through attention-based fusion exploiting the interplay of emotions and sentiments"
+  authors: "Gao, X., Nayak, S. & Coler, M."
+  venue: "Proceedings of Meetings on Acoustics"
+  year: 2024
+  url: https://doi.org/10.1121/2.0001918
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Enhancing sarcasm detection through multimodal data integration: A proposal for augmenting audio with text and emoticon"
+  authors: "Gao, X., Nayak, S. & Coler, M."
+  venue: "Journal of the Acoustical Society of America"
+  year: 2024
+  url: https://doi.org/10.1121/10.0027441
+  categories: [Journal article, Multimodal AI]
+
+- title: "Jaqaru"
+  authors: "Coler, M."
+  venue: "In M. Urban (ed.), The Oxford Guide to the Languages of the Central Andes. Oxford University Press"
+  year: 2024
+  url: https://doi.org/10.1093/oso/9780198849926.003.0009
+  categories: [Book chapter, Andean languages]
+
+
+# ---------- 2023 ----------
+- title: "Improving Luxembourgish speech recognition with cross-lingual speech representations"
+  authors: "Nguyen, L., Nayak, S. & Coler, M."
+  venue: "2022 IEEE Spoken Language Technology Workshop (SLT), 792–797"
+  year: 2023
+  url: https://doi.org/10.1109/slt54892.2023.10022706
+  categories: [Conference paper, Low-resource speech]
+
+- title: "SarcasticSpeech: Speech synthesis for sarcasm in low-resource scenarios"
+  authors: "Li, Z., Gao, X., Nayak, S. & Coler, M."
+  venue: "ISCA Speech Synthesis Workshop (SSW)"
+  year: 2023
+  url: https://www.isca-archive.org/ssw_2023/li23_ssw.html
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Prosodic focus interpretation in spectrotemporally degraded speech by non-native listeners"
+  authors: "Everhardt, M.K., Sarampalis, A., Coler, M., Başkent, D. & Lowie, W."
+  venue: "Journal of Speech, Language, and Hearing Research, 66, 3649–3664"
+  year: 2023
+  url: https://doi.org/10.1044/2023_JSLHR-22-00568
+  categories: [Journal article, Prosody]
+
+- title: "Reimagining language: Towards a better understanding of language by including our interactions with non-humans"
+  authors: "Rasenberg, M., Amha, A., Coler, M., van Koppen, M., van Miltenburg, E., de Rijk, L., Stommel, W. & Dingemanse, M."
+  venue: "Linguistics in the Netherlands"
+  year: 2023
+  url: https://doi.org/10.1075/avt.00095.ras
+  categories: [Journal article, Language diversity]
+
+- title: "The effects of input type and pronunciation dictionary usage in transfer learning for low-resource text-to-speech"
+  authors: "Do, P., Coler, M., Dijkstra, J. & Klabbers, E."
+  venue: "Interspeech 2023"
+  year: 2023
+  url: https://doi.org/10.21437/interspeech.2023-2148
+  categories: [Conference paper, Low-resource speech]
+
+- title: "Resource-efficient fine-tuning strategies for automatic MOS prediction in text-to-speech for low-resource languages"
+  authors: "Do, P., Coler, M., Dijkstra, J. & Klabbers, E."
+  venue: "Interspeech 2023"
+  year: 2023
+  url: https://doi.org/10.21437/interspeech.2023-2158
+  categories: [Conference paper, Low-resource speech]
+
+- title: "Strategies in transfer learning for low-resource speech synthesis: Phone mapping, features input, and source language selection"
+  authors: "Do, P., Coler, M., Dijkstra, J. & Klabbers, E."
+  venue: "12th ISCA Speech Synthesis Workshop (SSW 2023)"
+  year: 2023
+  url: https://doi.org/10.21437/ssw.2023-4
+  categories: [Conference paper, Low-resource speech]
+
+- title: "A contrastive study on the representation of \"Made in China\" in Chinese and U.S. newspapers"
+  authors: "Wang, Y., Coler, M. & Redeker, G."
+  venue: "Frontiers in Communication"
+  year: 2023
+  url: https://doi.org/10.3389/fcomm.2023.1129376
+  categories: [Journal article, Language diversity]
+
+
+# ---------- 2022 ----------
+- title: "luxembourgish-asr-rtl-lu: A speech corpus for Luxembourgish"
+  authors: "Nguyen, L.M., Nayak, S. & Coler, M."
+  venue: "Hugging Face Datasets (CC BY-NC-ND 4.0). Released with Nguyen et al., IEEE SLT 2022"
+  year: 2022
+  url: https://huggingface.co/datasets/Lemswasabi/luxembourgish-asr-rtl-lu
+  categories: [Dataset, Low-resource speech]
+
+- title: "Contemporary Research in Minoritized and Diaspora Languages of Europe"
+  authors: "Coler, M. & Nevins, A. (eds.)"
+  venue: "Language Science Press, Contact and Multilingualism series (open access)"
+  year: 2022
+  url: https://doi.org/10.5281/zenodo.7442323
+  categories: [Book, Language diversity]
+
+- title: "A cross-linguistic perspective to classification of healthiness of speech in Parkinson's disease"
+  authors: "Verkhodanova, V., Coler, M., Jonkers, R., Timmermans, S., Maurits, N., de Jong, B. & Lowie, W."
+  venue: "Journal of Neurolinguistics, 63, 101068"
+  year: 2022
+  url: https://doi.org/10.1016/j.jneuroling.2022.101068
+  categories: [Journal article, Prosody]
+
+- title: "How expertise and language familiarity influence perception of speech of people with Parkinson's disease"
+  authors: "Verkhodanova, V., Coler, M., Jonkers, R. & Lowie, W."
+  venue: "Clinical Linguistics & Phonetics, 36(2–3), 165–182"
+  year: 2022
+  url: https://doi.org/10.1080/02699206.2021.2003433
+  categories: [Journal article, Prosody]
+
+- title: "Interpretation of prosodically marked focus in cochlear implant-simulated speech by non-native listeners"
+  authors: "Everhardt, M.K., Sarampalis, A., Coler, M., Başkent, D. & Lowie, W."
+  venue: "Speech Prosody 2022, 72–76"
+  year: 2022
+  url: https://doi.org/10.21437/SpeechProsody.2022-15
+  categories: [Conference paper, Prosody]
+
+- title: "Speech prosody: The musical, magical quality of speech"
+  authors: "Everhardt, M.K., Sarampalis, A., Coler, M., Başkent, D. & Lowie, W."
+  venue: "Frontiers for Young Minds, 698575. Science article for young readers, reviewed by children"
+  year: 2022
+  url: https://doi.org/10.3389/frym.2021.698575
+  categories: [Journal article, Prosody]
+
+- title: "The use of nayra 'eye' in Muylaq' Aymara: Body, time, and space"
+  authors: "Coler, M., Kaal, B. & Banegas-Flores, E."
+  venue: "In R. Zariquiey & P.M. Valenzuela (eds.), The Grammar of Body-Part Expressions: A View from the Americas, 79–90. Oxford University Press"
+  year: 2022
+  url: https://doi.org/10.1093/oso/9780198852476.003.0003
+  categories: [Book chapter, Andean languages]
+
+- title: "Trilingual modality: Towards an analysis of mood and modality in Aymara, Quechua and Castellano Andino as a joint systematic concept"
+  authors: "Dankel, P., Soto Rodríguez, M., Coler, M. & Banegas-Flores, E."
+  venue: "In M. Coler & A. Nevins (eds.), Contemporary Research in Minoritized and Diaspora Languages of Europe. Language Science Press"
+  year: 2022
+  url: https://langsci-press.org/catalog/book/332
+  categories: [Book chapter, Andean languages]
+
+- title: "Deep CNN-based inductive transfer learning for sarcasm detection in speech"
+  authors: "Gao, X., Nayak, S. & Coler, M."
+  venue: "Interspeech 2022"
+  year: 2022
+  url: https://doi.org/10.21437/interspeech.2022-11323
+  categories: [Conference paper, Multimodal AI]
+
+- title: "Text-to-speech for under-resourced languages: Phoneme mapping and source language selection in transfer learning"
+  authors: "Do, P., Coler, M., Dijkstra, J. & Klabbers, E."
+  venue: "Proceedings of the 1st Annual Meeting of the ELRA/ISCA SIG on Under-Resourced Languages (SIGUL 2022), 16–22"
+  year: 2022
+  url: https://aclanthology.org/2022.sigul-1.3/
+  categories: [Conference paper, Low-resource speech]
+
+- title: "Frisian text-to-speech using cross-lingual transfer learning: An experiment with 5 source languages"
+  authors: "Do, P., Coler, M., Dijkstra, J. & Klabbers, E."
+  venue: ""
+  year: 2022
+  categories: [Conference paper, Low-resource speech]
+
+- title: "UniMorph 4.0: Universal Morphology"
+  authors: "Batsuren, K., Goldman, O., Khalifa, S., Habash, N., Kieraś, W., Bella, G., … Coler, M., … Vylomova, E."
+  venue: "Proceedings of LREC 2022, 840–855"
+  year: 2022
+  url: https://aclanthology.org/2022.lrec-1.89/
+  categories: [Conference paper, Language diversity]
+
+- title: "Non-native listeners' interpretation of prosodically marked focus in cochlear implant-simulated speech"
+  authors: "Everhardt, M.K., Sarampalis, A., Coler, M., Başkent, D. & Lowie, W."
+  venue: "New Sounds 2022"
+  year: 2022
+  categories: [Conference paper, Prosody]
+
+- title: "Salience is in the brain of the beholder: ERPs reflect acoustically salient variables"
+  authors: "Boswijk, V., Hilton, N.H., Coler, M. & Loerts, H."
+  venue: "Ampersand"
+  year: 2022
+  url: https://doi.org/10.1016/j.amper.2022.100085
+  categories: [Journal article, Prosody]
+
+
+# ---------- 2021 ----------
+- title: "Sensory Experiences: Exploring Meaning and the Senses"
+  authors: "Dubois, D., Cance, C., Coler, M., Paté, A. & Guastavino, C. (eds.)"
+  venue: "John Benjamins"
+  year: 2021
+  url: https://doi.org/10.1075/celcr.24
+  categories: [Book, Sensory experiences]
+
+- title: "Exploring speech experiences: Linguists, speakers, sounds and meanings"
+  authors: "Coler, M."
+  venue: "In Dubois et al. (eds.), Sensory Experiences, 169–212. John Benjamins"
+  year: 2021
+  url: https://doi.org/10.1075/celcr.24.c5
+  categories: [Book chapter, Sensory experiences]
+
+- title: "The five senses and the cognitivist approach to perception"
+  authors: "Dubois, D., Cance, C., Coler, M. & Paté, A."
+  venue: "In Dubois et al. (eds.), Sensory Experiences, 23–66. John Benjamins"
+  year: 2021
+  url: https://doi.org/10.1075/celcr.24.c1
+  categories: [Book chapter, Sensory experiences]
+
+- title: "From perception to sensory experiences: A paradigm shift"
+  authors: "Dubois, D., Cance, C., Coler, M., Paté, A. & Guastavino, C."
+  venue: "In Dubois et al. (eds.), Sensory Experiences, 333–370. John Benjamins"
+  year: 2021
+  url: https://doi.org/10.1075/celcr.24.c9
+  categories: [Book chapter, Sensory experiences]
+
+- title: "Questioning sensory experience"
+  authors: "Dubois, D., Cance, C., Coler, M., Paté, A. & Guastavino, C."
+  venue: "In Dubois et al. (eds.), Sensory Experiences, 371–402. John Benjamins"
+  year: 2021
+  url: https://doi.org/10.1075/celcr.24.c10
+  categories: [Book chapter, Sensory experiences]
+
+- title: "Subjects or participants?"
+  authors: "Dubois, D., Cance, C. & Coler, M."
+  venue: "In Dubois et al. (eds.), Sensory Experiences, 403–438. John Benjamins"
+  year: 2021
+  url: https://doi.org/10.1075/celcr.24.c11
+  categories: [Book chapter, Sensory experiences]
+
+- title: "From stimulations to stimuli construction and selection"
+  authors: "Cance, C., Dubois, D., Paté, A. & Coler, M."
+  venue: "In Dubois et al. (eds.), Sensory Experiences, 439–474. John Benjamins"
+  year: 2021
+  url: https://doi.org/10.1075/celcr.24.c12
+  categories: [Book chapter, Sensory experiences]
+
+- title: "Making sense of the outcomes"
+  authors: "Cance, C., Dubois, D. & Coler, M."
+  venue: "In Dubois et al. (eds.), Sensory Experiences, 505–536. John Benjamins"
+  year: 2021
+  url: https://doi.org/10.1075/celcr.24.c14
+  categories: [Book chapter, Sensory experiences]
+
+- title: "The Dawn of the Human-Machine Era: A forecast on new and emerging language technologies"
+  authors: "Sayers, D., et al."
+  venue: "LITHME COST Action CA19102, University of Jyväskylä. 4,000+ downloads"
+  year: 2021
+  url: https://doi.org/10.17011/jyx/reports/20210518/1
+  categories: [Report, Language diversity]
+
+- title: "Evolving plasticity for autonomous learning under changing environmental conditions"
+  authors: "Yaman, A., Iacca, G., Mocanu, D.C., Coler, M., Fletcher, G. & Pechenizkiy, M."
+  venue: "Evolutionary Computation"
+  year: 2021
+  url: https://doi.org/10.1162/evco_a_00286
+  categories: [Journal article, Machine learning]
+
+- title: "A systematic review and analysis of multilingual data strategies in text-to-speech for low-resource languages"
+  authors: "Do, P., Coler, M., Dijkstra, J. & Klabbers, E."
+  venue: "Interspeech 2021"
+  year: 2021
+  url: https://doi.org/10.21437/interspeech.2021-1565
+  categories: [Conference paper, Low-resource speech]
+
+
+# ---------- 2020 ----------
+- title: "Meta-analysis on the identification of linguistic and emotional prosody in cochlear implant users and vocoder simulations"
+  authors: "Everhardt, M.K., Sarampalis, A., Coler, M., Başkent, D. & Lowie, W."
+  venue: "Ear and Hearing, 41(5), 1092–1102"
+  year: 2020
+  url: https://doi.org/10.1097/AUD.0000000000000863
+  categories: [Journal article, Prosody]
+
+- title: "More than words: Cross-linguistic exploration of Parkinson's disease identification from speech"
+  authors: "Verkhodanova, V., Trčková, D., Coler, M. & Lowie, W."
+  venue: "SPECOM 2020, LNCS 12335, 613–623"
+  year: 2020
+  url: https://doi.org/10.1007/978-3-030-60276-5_59
+  categories: [Conference paper, Prosody]
+
+- title: "Vowel deletion in two Aymara varieties"
+  authors: "Coler, M., Emlen, N.Q. & Banegas-Flores, E."
+  venue: "Italian Journal of Linguistics, 32(1), 151–174"
+  year: 2020
+  url: https://doi.org/10.26346/1120-2726-152
+  categories: [Journal article, Andean languages]
+
+- title: "Verbal art as heuristic for semantic analyses: How non-prosodic poetic structure in the verbal art of Muylaq' Aymara (Muylaque, Peru) reveals semantic categories"
+  authors: "Coler, M., Guyot, P. & Banegas-Flores, E."
+  venue: "LIAMES: Línguas Indígenas Americanas"
+  year: 2020
+  url: https://doi.org/10.20396/liames.v20i0.8660368
+  categories: [Journal article, Andean languages]
+
+- title: "The multilingual workplace realities of Polish truckers: A case study in the Netherlands"
+  authors: "Dijkstra, B.E., Coler, M. & Redeker, G."
+  venue: "Multilingua"
+  year: 2020
+  url: https://doi.org/10.1515/multi-2020-0038
+  categories: [Journal article, Language diversity]
+
+- title: "What is salience?"
+  authors: "Boswijk, V. & Coler, M."
+  venue: "Open Linguistics"
+  year: 2020
+  url: https://doi.org/10.1515/opli-2020-0042
+  categories: [Journal article, Prosody]
+
+- title: "Processing of prosodically marked focus in a cochlear implant simulation by non-native listeners: Preliminary results"
+  authors: "Everhardt, M.K., Sarampalis, A., Coler, M., Başkent, D. & Lowie, W."
+  venue: "Journal of the Acoustical Society of America"
+  year: 2020
+  url: https://doi.org/10.1121/1.5147550
+  categories: [Journal article, Prosody]
+
+
+# ---------- 2019 ----------
+- title: "How dysarthric prosody impacts naïve listeners' recognition"
+  authors: "Verkhodanova, V., Timmermans, S., Coler, M., Jonkers, R., de Jong, B. & Lowie, W."
+  venue: "SPECOM 2019, LNCS 11658, 510–519"
+  year: 2019
+  url: https://doi.org/10.1007/978-3-030-26061-3_52
+  categories: [Conference paper, Prosody]
+
+- title: "Prosodic changes in the speech of a single speaker with Parkinson's disease"
+  authors: "Verkhodanova, V., Coler, M., Jonkers, R., de Bot, K. & Lowie, W."
+  venue: "Proceedings of ICPhS 2019, 3046–3050"
+  year: 2019
+  url: https://assta.org/proceedings/ICPhS2019Microsite/pdf/full-paper_788.pdf
+  categories: [Conference paper, Prosody]
+
+- title: "Perception of L2 lexical stress in words degraded by a cochlear implant simulation"
+  authors: "Everhardt, M.K., Sarampalis, A., Coler, M., Başkent, D. & Lowie, W."
+  venue: "Proceedings of ICPhS 2019, 102–106"
+  year: 2019
+  url: http://hdl.handle.net/11370/a204231e-3a87-4b78-8526-631cb113a34b
+  categories: [Conference paper, Prosody]
+
+- title: "An exploratory study on the influence of activities on public space users' descriptions of their auditory environments on site: The case of Amsterdam"
+  authors: "Bild, E., Pfeffer, K., Coler, M. & Bertolini, L."
+  venue: "Acta Acustica united with Acustica, 105(3), 449–463"
+  year: 2019
+  url: https://doi.org/10.3813/AAA.919327
+  categories: [Journal article, Sensory experiences]
+
+
+# ---------- 2018 ----------
+- title: "Prosodic and segmental correlates of spontaneous Dutch speech in patients with Parkinson's disease: A pilot study"
+  authors: "Verkhodanova, V. & Coler, M."
+  venue: "Speech Prosody 2018"
+  year: 2018
+  url: https://doi.org/10.21437/speechprosody.2018-33
+  categories: [Conference paper, Prosody]
+
+- title: "Aymara"
+  authors: "Banegas-Flores, E. & Coler, M."
+  venue: "International Journal of American Linguistics, 84(S1), 165–185. Narrative text, Texts in the Indigenous Languages of the Americas"
+  year: 2018
+  url: https://doi.org/10.1086/695552
+  categories: [Journal article, Andean languages]
+
+- title: "Public space users' soundscape evaluations in relation to their activities: An Amsterdam-based study"
+  authors: "Bild, E., Pfeffer, K., Coler, M., Rubin, O. & Bertolini, L."
+  venue: "Frontiers in Psychology, 9, 1593"
+  year: 2018
+  url: https://doi.org/10.3389/fpsyg.2018.01593
+  categories: [Journal article, Sensory experiences]
+
+- title: "Multi-strategy differential evolution"
+  authors: "Yaman, A., Iacca, G., Coler, M., Fletcher, G. & Pechenizkiy, M."
+  venue: "EvoApplications 2018"
+  year: 2018
+  url: https://doi.org/10.1007/978-3-319-77538-8_42
+  categories: [Conference paper, Machine learning]
+
+- title: "Introduction: Texts in the Indigenous Languages of the Americas: Narratives in Indigenous Peruvian languages"
+  authors: "Coler, M., Valenzuela, P. & Zariquiey, R."
+  venue: "International Journal of American Linguistics, 84(S1)"
+  year: 2018
+  categories: [Journal article, Andean languages]
+
+
+# ---------- 2017 ----------
+- title: "Acoustic and perceptual correlates of vowel articulation in Parkinson's disease with and without mild cognitive impairment: A pilot study"
+  authors: "Strinzel, M., Verkhodanova, V., Jalvingh, F., Jonkers, R. & Coler, M."
+  venue: "SPECOM 2017"
+  year: 2017
+  url: https://doi.org/10.1007/978-3-319-66429-3_5
+  categories: [Conference paper, Prosody]
+
+- title: "Presenting the ECO: Evolutionary Computation Ontology"
+  authors: "Yaman, A., Hallawa, A., Coler, M. & Iacca, G."
+  venue: "EvoApplications 2017"
+  year: 2017
+  url: https://doi.org/10.1007/978-3-319-55849-3_39
+  categories: [Conference paper, Machine learning]
+
+
+# ---------- 2016 ----------
+- title: "Aymara inflection"
+  authors: "Coler, M."
+  venue: "In M. Baerman (ed.), The Oxford Handbook of Inflection. Oxford University Press"
+  year: 2016
+  url: https://doi.org/10.1093/oxfordhb/9780199591428.013.22
+  categories: [Book chapter, Andean languages]
+
+- title: "The Phonetics and Phonology of Laryngeal Features in Native American Languages"
+  authors: "Avelino, H., Coler, M. & Wetzels, W.L.M. (eds.)"
+  venue: "Brill (Brill's Studies in the Indigenous Languages of the Americas)"
+  year: 2016
+  url: https://doi.org/10.1163/9789004303218
+  categories: [Book, Andean languages]
+
+- title: "Considering sound in planning and designing public spaces: A review of theory and applications and a proposed framework for integrating research and practice"
+  authors: "Bild, E., Coler, M., Pfeffer, K. & Bertolini, L."
+  venue: "Journal of Planning Literature, 31, 419–434"
+  year: 2016
+  url: https://doi.org/10.1177/0885412216662001
+  categories: [Journal article, Sensory experiences]
+
+- title: "Sharing music in public spaces: Social insights from the Musikiosk project (Montreal, CA)"
+  authors: "Bild, E., Steele, D., Tarlao, C., Guastavino, C. & Coler, M."
+  venue: "INTER-NOISE and NOISE-CON Congress and Conference Proceedings, 253(5)"
+  year: 2016
+  url: https://ince.publisher.ingentaconnect.com/content/ince/incecp/2016/00000253/00000005/art00093
+  categories: [Conference paper, Sensory experiences]
+
+- title: "Word and phrasal stress disentangled: Pitch peak alignment in Frisian and Dutch declarative structures"
+  authors: "Nota, A., Hilton, N.H. & Coler, M."
+  venue: "Speech Prosody 2016"
+  year: 2016
+  url: https://doi.org/10.21437/speechprosody.2016-95
+  categories: [Conference paper, Prosody]
+
+- title: "Introduction to laryngeal features in languages of the Americas"
+  authors: "Avelino, H., Coler, M. & Wetzels, W.L.M."
+  venue: "In Avelino, Coler & Wetzels (eds.), The Phonetics and Phonology of Laryngeal Features in Native American Languages. Brill"
+  year: 2016
+  url: https://doi.org/10.1163/9789004303218_002
+  categories: [Book chapter, Andean languages]
+
+
+# ---------- 2015 ----------
+- title: "An ethnomusical and linguistic description of the Añasita song as sung by the Aymara of Muylaq'i"
+  authors: "Coler, M., Guyot, P. & Banegas-Flores, E."
+  venue: "Proceedings of REELA"
+  year: 2015
+  categories: [Conference paper, Andean languages]
+
+- title: "A pilot experiment on effects of motor and cognitive activities on memories of soundscapes"
+  authors: "Bild, E., Coler, M., Dubois, D. & Pfeffer, K."
+  venue: "Proceedings of Euronoise 2015, Maastricht, 1529–1533"
+  year: 2015
+  categories: [Conference paper, Sensory experiences]
+
+- title: "Hybrid sound classification"
+  authors: "Gaillard, P., Coler, M., Tardieu, J. & Magnen, C."
+  venue: "Proceedings of Euronoise 2015, Maastricht, 1523ff."
+  year: 2015
+  url: https://hal.archives-ouvertes.fr/hal-01572472
+  categories: [Conference paper, Sensory experiences]
+
+- title: "Method and system for predicting human activity"
+  authors: "Coler, M. & Wörtche, H.J."
+  venue: "US Patent Application 2015/0156597 A1 (Stichting INCAS3)"
+  year: 2015
+  url: https://uspto.report/patent/app/20150156597
+  categories: [Patent, Machine learning]
+
+
+# ---------- 2014 ----------
+- title: "A Grammar of Muylaq' Aymara: Aymara as Spoken in Southern Peru"
+  authors: "Coler, M."
+  venue: "Brill"
+  year: 2014
+  url: https://doi.org/10.1163/9789004284005
+  categories: [Book, Andean languages]
+
+- title: "The grammatical expression of dialogicity in Muylaq' Aymara narratives"
+  authors: "Coler, M."
+  venue: "International Journal of American Linguistics, 80(2), 241–265"
+  year: 2014
+  url: https://doi.org/10.1086/675424
+  categories: [Journal article, Andean languages]
+
+- title: "Rule-based machine translation for Aymara"
+  authors: "Coler, M. & Homola, P."
+  venue: "In M. Jones (ed.), Endangered Languages and New Technologies. Cambridge University Press"
+  year: 2014
+  url: https://doi.org/10.1017/cbo9781107279063.007
+  categories: [Book chapter, Andean languages]
+
+- title: "Knowledge, sensory experience, and sensor technology"
+  authors: "Dubois, D., Coler, M. & Wörtche, H."
+  venue: "In The World in Prismatic Views. World Scientific"
+  year: 2014
+  url: https://doi.org/10.1142/9789814583411_0006
+  categories: [Book chapter, Sensory experiences]
+
+
+# ---------- 2013 ----------
+- title: "A descriptive analysis of Castellano loanwords into Muylaq' Aymara"
+  authors: "Coler, M. & Banegas-Flores, E."
+  venue: "LIAMES: Línguas Indígenas Americanas, 13"
+  year: 2013
+  url: https://doi.org/10.20396/liames.v0i13.1533
+  categories: [Journal article, Andean languages]
+
+- title: "Pragmatic structures in Aymara"
+  authors: "Homola, P. & Coler, M."
+  venue: "Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013), 98–107"
+  year: 2013
+  url: https://aclanthology.org/W13-3712/
+  categories: [Conference paper, Andean languages]
+
+- title: "Multimodal analysis of \"well\" as a discourse marker in conversation: A pilot study"
+  authors: "Esfandiari Baiat, G., Coler, M., Pullen, M., Tienkouw, S. & Hunyadi, L."
+  venue: "IEEE 4th International Conference on Cognitive Infocommunications (CogInfoCom 2013), 283–288"
+  year: 2013
+  url: https://doi.org/10.1109/coginfocom.2013.6719257
+  categories: [Conference paper, Multimodal AI]

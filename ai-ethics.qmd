@@ -1,0 +1,41 @@
+---
+title: "AI Ethics"
+toc: true
+toc-title: "On this page"
+---
+
+::: {.lead-serif}
+How speech and language technologies can be developed responsibly while respecting linguistic diversity, fairness, privacy, transparency, and social equity. I work at the intersection of speech technology, AI governance, and research ethics, combining technical expertise with perspectives from law, philosophy, and public policy.
+:::
+
+## Leadership and governance roles
+
+- **2027**: Ethics Chair, [IEEE ASLI 2027](https://2027.ieeeasli.org/organizing-committee/) (IEEE International Conference on Audio, Speech, and Language Intelligence), Singapore
+- **2025–2026**: Ethics Chair, INTERSPEECH, overseeing ethical standards for the field's largest conference
+- **2025–2026**: Chair, ISCA Ethics Committee
+- **2025–present**: Management Committee Member, GRADE COST Action CA21141, shaping AI ethics and governance policy as Netherlands representative
+- **2023–present**: Working Group Member, Coalition for Advancing Research Assessment (CoARA), *Ethics and Research Integrity Policy in Responsible Research Assessment for Data and Artificial Intelligence*
+- **2026–present** and **2018–2020**: Chair, Ethics Committee, Campus Fryslân, University of Groningen
+
+## Current projects
+
+- Co-editing *Speech Tech Ethics*, a forthcoming book with Maggie Glass exploring ethical frameworks for speech and language technologies.
+- Contributing to the CoARA working group on ethics and research integrity in research assessment for data and AI.
+- Developing ethical guidelines and educational resources for speech technology research and teaching.
+- Integrating AI ethics into speech technology curricula and professional training.
+
+## Education and outreach
+
+- *Research Ethics*, workshop for PhD students, Campus Fryslân Graduate School (November 2026)
+- Organizer, Speech Tech Summer Schools (2023, 2024)
+- Developed the STQ module *GPT in the Classroom: Ethical Considerations* (2024)
+- Professional training in AI ethics: *AI Empathy & Ethics*, University of California (2024); *AI: Ethics & Societal Challenges*, Lund University (2023)
+
+## Talks and events
+
+- **2026**: *Standing to Be Heard: Speech Technology and the Community of Speakers*. Online keynote, *Human in the Age of Algorithms*, Ege University, İzmir
+- **2026**: [*Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law*](posts/2026-06-09-who-governs/index.qmd). AI & Marginalized Knowledge Systems workshop, University of Warsaw
+- **2026**: *Ethical Implications of AI in Research Assessment*
+- **2026**: Invited Panelist, *Skills Meet Tools: Mastering AI*. European Commission Inter-institutional Relations and Outreach, Brussels
+- **2024**: Co-organizer, *Exploring the Dark Side of Future Language Technologies: Linguistic (In)security, Ethics, and Privacy in the Human–Machine Era*
+- **2023–2026**: Co-organizer, Dutch Speech Tech Days

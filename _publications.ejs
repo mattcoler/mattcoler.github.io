@@ -1,0 +1,11 @@
+<ul class="list pub-list">
+<% for (const item of items) { %>
+<li <%= metadataAttrs(item) %> class="pub-item">
+  <p class="pub-title listing-title">
+  <% if (item.url) { %><a href="<%- item.url %>"><%= item.title %></a><% } else { %><%= item.title %><% } %>
+  </p>
+  <% const a = String(item.authors); const k = a.indexOf("Coler, M."); %><p class="pub-meta listing-authors"><% if (k >= 0) { %><%= a.slice(0, k) %><strong>Coler, M.</strong><%= a.slice(k + 9) %><% } else { %><%= a %><% } %><% if (item.venue) { %> · <em class="listing-venue"><%= item.venue %></em><% } %></p>
+  <p class="pub-tags"><span class="pub-year listing-year"><%= item.year %></span><span class="listing-categories"><% for (const c of (item.categories || [])) { %><span><%= c %></span><% } %></span><% if (item.pdf) { %><span><a href="<%- item.pdf %>">PDF</a></span><% } %></p>
+</li>
+<% } %>
+</ul>

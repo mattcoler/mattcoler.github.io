@@ -1,0 +1,167 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-title: "Sections"
+toc-depth: 2
+---
+
+[Download PDF](https://www.overleaf.com/read/OVERLEAF-LINK){.btn .btn-primary .btn-sm}
+
+Matt Coler received his PhD from the Free University of Amsterdam in 2010. After a postdoctoral appointment at his alma mater, he joined an AI start-up focused on acoustic sensors, where he served as head of the cognitive systems unit. In 2012 he returned to academia. He is currently an Associate Professor of Speech Technology at Campus Fryslân, University of Groningen, where he directs the MSc Speech Technology program and heads the Governance & Technology Department.
+
+## Employment
+
+- **2020–present**: Associate Professor, University of Groningen
+- **2016–2020**: Assistant Professor, University of Groningen
+- **2012–2016**: Head, Cognitive Systems, Innovation Center for Sensor Systems
+- **2012–2013**: Instructor, University of Applied Sciences Amsterdam
+- **2011–2012**: Postdoctoral Scientist, Free University Amsterdam
+- **2006–2010**: Doctoral Researcher, Free University Amsterdam
+
+## Education and training
+
+- **2007–2010**: PhD Linguistics, Free University Amsterdam
+- **2006–2007**: MA Linguistics (*cum laude*), Free University Amsterdam
+- **2002–2003**: Philosophy (major) and Mandarin Chinese (minor), University of Massachusetts
+
+**Training**
+
+- **2024**: Senior Teaching Qualification (STQ): *GPT in the classroom*
+- **2024**: AI Empathy & Ethics, University of California MOOC
+- **2023**: AI: Ethics & Societal Challenges, Lund University MOOC
+
+## Funding
+
+Over €15M in competitively awarded international research funding across EU, national, and regional programmes, in speech technology and AI, minority and low-resource languages, language preservation, human-centred technology, and acoustic sensing. Small grants for feasibility studies and virtual exchange are not listed.
+
+- **2023–2024**: **LITHME COST Action CA19102**, Vice-Chair. White Paper, short-term scientific missions, guest lectures.
+- **2017–2025**: **H2020-MSCA-RISE-2017: COLING**, *Minority Languages, Major Opportunities: Collaborative Research, Community Engagement and Innovative Educational Tools*. €1.58M total (€189k for my team). Steering Committee Member and Work Package Leader.
+- **2016–2019**: **H2020-FET-Open: Phoenix**, *Exploring the Unknown through Reincarnation and Co-evolution*. €3.6M total (€237k for my team). Work Package Leader and Management Team Member.
+- **2016–2019**: **Polish Science Foundation TEAM Grant**, *Language as a cure: linguistic vitality as a tool for psychological well-being, health and economic sustainability*. €814k.
+- **2015–2018**: **Interreg VA ID3AS**, *Acoustic event detection*. €9.75M total (€200k for my team).
+
+## Academic leadership
+
+### Management positions
+
+- **2025–present**: Department Head, Technology, Governance & Innovation Department, Campus Fryslân
+- **2023–2025**: Chair, Faculty Research Institute, Campus Fryslân
+- **2021–2025**: Chair, Admissions Board, MSc Speech Technology, Campus Fryslân
+- **2021–2023**: Director, Graduate School, Campus Fryslân
+- **2021–2022**: Member, Extended Board, Campus Fryslân
+- **2018–2025**: Department Head, Language, Technology and Culture Department, Campus Fryslân
+- **2018–2022**: Admissions Board Member, University College Fryslân
+
+### Ethics
+
+- **2027**: Ethics Chair, IEEE ASLI 2027 (International Conference on Audio, Speech, and Language Intelligence), Singapore
+- **2025–2026**: Chair, ISCA Ethics Committee
+- **2025–2026**: Ethics Chair, Interspeech
+- **2026–present**: Chair, Ethics Committee, Campus Fryslân (previously 2018–2020)
+- **2024**: Co-organizer, *Exploring the Dark Side of Future Language Technologies*
+- **2023–present**: Working Group Member, CoARA, Ethics and Research Integrity Policy
+
+### European networks and policy
+
+**LITHME COST Action CA19102, Vice Chair (2023–2024)**
+
+- Led a 300+ researcher network across 39 countries; "excellent" final evaluation
+- Published a [forecast report](https://doi.org/10.17011/jyx/reports/20210518/1) with 4,000+ downloads and 40+ citations
+- Established a permanent Special Interest Group (200+ members)
+- Connected academia with industry (ReadSpeaker, Nvidia)
+- Developed a Marie Skłodowska-Curie proposal scoring 94.6%
+
+**GRADE COST Action CA21141, Management Committee Member (2025–present)**
+
+- Shaping AI ethics and governance policy; Netherlands representative
+
+**PLURILINGMEDIA COST Action, AI ad hoc group (2026)**
+
+**H2020-MSCA-RISE: COLING (2017–2025)**: Steering Committee Member and Work Package Leader. Established an international research exchange with the Smithsonian Institution.
+
+**H2020-FET-Open: Phoenix (2016–2019)**: Management Team Member and Work Package Leader. Evolving hardware technologies for extreme environments.
+
+**Policy engagement**
+
+- **2026**: Invited Panelist, *Skills Meet Tools: Mastering AI*. European Commission Inter-institutional Relations and Outreach, Brussels
+- **2025**: Policy Expert on Speech Technology and Language Preservation, *Regional and Minority Languages: Game Changer in the Digital World?*, European Region Tyrol–South Tyrol–Trentino Representation, Brussels
+- **2023**: Expert Panelist, Knowledge Centre on Interpretation Virtual Café, *Languages, Skills and Technologies for Economic Growth*. European Commission European Day of Languages, Brussels
+- **2018–present**: Expert Evaluator & Rapporteur, Horizon 2020 Research Executive Agency
+
+## Talks and conference leadership
+
+- **2026**: Keynote (online), *Standing to Be Heard: Speech Technology and the Community of Speakers*. *Human in the Age of Algorithms*, Ege University, İzmir
+- **2026**: Talk, *Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law*. University of Warsaw
+- **2026**: Program Committee, *Speech Language Models in Low-Resource Settings* (SPEAKABLE), co-located with LREC 2026
+- **2026**: Scientific Committee, International Conference of the Association for Linguistic Typology
+- **2026**: Committee member, Speech Synthesis Workshop (SSW)
+- **2025**: Talk, *Speech Technology and Minority Language Preservation*. Brussels
+- **2025**: Keynote, *Speaking Machines and Living Languages*. Breakthroughs Conference, University of Warsaw
+- **2025**: *Speech technology as interdisciplinary science*. Centrum Q Event, University of Warsaw
+- **2025**: Keynote, *Billion-Dollar Voices and Minority Languages: The Promise and Challenge of Speech Technology*. University of Warsaw Winter School of Innovation
+- **2025**: Organizing Committee, Interspeech Speech Synthesis Workshop
+- **2024**: Co-organizer, 4th International Conference *Language in the Human-Machine Era*
+- **2023–2026**: Co-organizer, Dutch Speech Tech Days
+- **2023–2024**: Co-organizer, Speech Tech Summer Schools
+- **2022**: Keynote, *Celebrating Openness: Open Research Award*
+
+## Service
+
+- **2025–2026**: Sub-panelist, VER 2026 (National Research Evaluation Exercise), Ministry of Education, Science, Research and Sport of the Slovak Republic
+- **2025–present**: Member, ISCA Special Interest Group on Speech Synthesis (SynSIG)
+- **2025–present**: Member, Council of the Center for Research on Culture, Language & Mind
+- **2025**: External Reviewer, Toulouse Safe Place for Science Program
+- **2022–present**: Startup Advisor, Voiseed srl.
+- **2021–present**: Board Member, Stichting Open Spraak Technologie
+- **2020–present**: Board Member, Center for Research and Practice in Cultural Continuity, University of Warsaw
+- **2019–2026**: Open Access Ambassador, Campus Fryslân
+- **2016–present**: Associated Member, CNRS UMR 2563, Laboratoire Travail et Cognition
+- **2014–present**: Expert Panelist (Cultural Anthropology & Linguistics), National Science Foundation
+- Editorial board, University of Groningen Press (UGP)
+- Series editor and reviewer, Open Text Collections (Language Science Press)
+
+**Journal reviewing:** Computer Speech & Language (2025, 2026), Applied Acoustics (2025), Folia Linguistica (2025), PLOS One (2025), Open Linguistics (2025), Revista Lenguaje (2025), Linguistics and Philosophy (2025), Annals of the New York Academy of Sciences (2026), IEEE/ACM Transactions on Audio, Speech and Language Processing (2026), Scientific Data (2026), Scientific Reports (2026 ×2), Discover Artificial Intelligence (2026).
+
+**Conference reviewing:** ICASSP 2025, SWL X 2025, LREC SIG on Under-resourced Languages (2022–2026), YFRSW (2024–2026), ALT-2026, SPEAKABLE LREC 2026.
+
+## Teaching
+
+- **2026**: *Research Ethics*, workshop for PhD students, Campus Fryslân Graduate School
+
+See [Teaching](teaching.qmd) for courses and programs. Highlights: led development of the MSc Speech Technology, approved by the Dutch Ministry of Science with a perfect score; Culture 200 student evaluation 8.6/10.
+
+## Publications
+
+100+ publications, including 4 books and 20+ book chapters. Selected and filterable list on [Publications](publications.qmd); full list on [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en).
+
+**Books**
+
+- Coler, M. & Nevins, A., eds. (2022). *[Contemporary Research in Minoritized and Diaspora Languages of Europe](https://doi.org/10.5281/zenodo.7442323)*. Language Science Press.
+- Dubois, D., Cance, C., Coler, M., Paté, A. & Guastavino, C., eds. (2021). *[Sensory Experiences: Exploring Meaning and the Senses](https://doi.org/10.1075/celcr.24)*. John Benjamins.
+- Avelino, H., Coler, M. & Wetzels, W. L. M., eds. (2016). *[The Phonetics and Phonology of Laryngeal Features in Native American Languages](https://doi.org/10.1163/9789004303218)*. Brill.
+- Coler, M. (2014). *[A Grammar of Muylaq' Aymara: Aymara as Spoken in Southern Peru](https://doi.org/10.1163/9789004284005)*. Brill.
+
+**Datasets**
+
+- Gao, X., Wang, B.X., Zhang, M., Huang, S., Li, Z., Nayak, S. & Coler, M. (2025). *[MCSD 1.0: Multimodal Chinese Sarcasm Dataset](https://doi.org/10.34894/A0NLTQ)*. DataverseNL.
+- Nguyen, L.M., Nayak, S. & Coler, M. (2022). *[luxembourgish-asr-rtl-lu](https://huggingface.co/datasets/Lemswasabi/luxembourgish-asr-rtl-lu)*. Hugging Face.
+
+## Media coverage
+
+**International**
+
+- The Guardian (2024): ["Why 'emotional AI' is fraught with problems"](https://www.theguardian.com/technology/article/2024/jun/23/emotional-artificial-intelligence-chatgpt-4o-hume-algorithmic-bias)
+- The Guardian (2024): ["Researchers build AI-driven sarcasm detector"](https://www.theguardian.com/technology/article/2024/may/16/researchers-build-ai-driven-sarcasm-detector)
+- BBC Radio 5 Live & BBC Radio 4 (2024): sarcasm detector interviews
+- CBC Radio 1 (2024): ["As It Happens" interview on sarcasm detection](https://www.cbc.ca/listen/live-radio/1-2/clip/16068050)
+- Popular Science (2024): ["Neural network trained on 'Friends' can recognize sarcasm"](https://www.popsci.com/technology/sarcasm-algorithm/)
+- EuroNews (2024): ["AI can detect sarcasm now. Great…"](https://www.euronews.com/culture/2024/05/22/ai-can-detect-sarcasm-now-great)
+- ISCA Podcast (2024): [Interview on speech technology research](https://open.spotify.com/episode/2KmSIEt8udqxoQlnM8FYht)
+
+**National and regional**
+
+- NRC (2025): [Profile of PhD student Phat Do](https://www.nrc.nl/nieuws/2025/09/04/dankzij-spraakwetenschapper-phat-do-kan-iedereen-klinken-als-een-fries-a4904850)
+- Trouw (2025): ["How does an AI voice learn to read articles?"](https://www.trouw.nl/cultuur-media/hoe-leert-een-ai-stem-om-artikelen-voor-te-lezen~ba9045f4/)
+- University of Groningen (2025): ["Beyond 'Hey Siri': towards inclusive speech technology"](https://www.rug.nl/about-ug/latest-news/news/archief2025/nieuwsberichten/0324-coler)
+- NOS (2024): ["Computer recognizes sarcasm increasingly better"](https://nos.nl/artikel/2520728-computer-herkent-sarcasme-steeds-beter)
+- UG Open Science Blog (2021): ["Open by Design: Campus Fryslân's new MSc Voice Technology"](https://www.rug.nl/library/open-access/blog/open-by-design-campus-fryslan-s-new-msc-voice-technology?lang=en)

@@ -1,0 +1,163 @@
+---
+title: "Research"
+listing:
+  - id: news-ethics
+    contents: posts
+    template: _theme-news.ejs
+    include:
+      categories: ["ai-ethics"]
+    sort: "date desc"
+    max-items: 3
+  - id: pubs-small
+    contents: publications.yml
+    template: _recent-pubs.ejs
+    include:
+      categories: ["Low-resource speech", "Andean languages", "Language diversity"]
+    sort: "year desc"
+    max-items: 5
+  - id: news-small
+    contents: posts
+    template: _theme-news.ejs
+    include:
+      categories: ["language-diversity", "Aymara"]
+    sort: "date desc"
+    max-items: 3
+  - id: pubs-meaning
+    contents: publications.yml
+    template: _recent-pubs.ejs
+    include:
+      categories: ["Multimodal AI", "Prosody", "Sensory experiences"]
+    sort: "year desc"
+    max-items: 5
+  - id: news-meaning
+    contents: posts
+    template: _theme-news.ejs
+    include:
+      categories: ["multimodal-ai", "media"]
+    sort: "date desc"
+    max-items: 3
+---
+
+::: {.lead-serif}
+Three questions run through my work: who governs speech technology, how to build it for languages with little data, and how people and machines read meaning beyond the words.
+:::
+
+```{=html}
+<div class="theme-cards">
+  <a class="theme-card" href="#ethics">
+    <span class="kicker">01</span>
+    <span class="theme-card-title">Speech technology ethics</span>
+    <span class="theme-card-text">Who gets heard when speech technology decides, and who can complain when it fails.</span>
+  </a>
+  <a class="theme-card" href="#small-data">
+    <span class="kicker">02</span>
+    <span class="theme-card-title">AI for small data</span>
+    <span class="theme-card-text">Speech recognition and synthesis for languages the big models skip, from Frisian to Aymara.</span>
+  </a>
+  <a class="theme-card" href="#meaning">
+    <span class="kicker">03</span>
+    <span class="theme-card-title">Meaning beyond words</span>
+    <span class="theme-card-text">Sarcasm, prosody and sensory experience: what speech and sound carry besides their literal content.</span>
+  </a>
+</div>
+```
+
+## Speech technology ethics {#ethics}
+
+Speech technology now decides who gets heard in public agencies, classrooms and courts, but the law governing it assumes a single claimant with a grievance. When a system fails a language, it fails everyone who speaks it. I work on that gap: fairness and bias, consent over speech data, and the standing of language communities under AI law and minority-language instruments. Frisian is the recurring test case.
+
+
+:::: {.theme-columns}
+::: {.theme-col}
+### Roles
+
+- Ethics Chair, IEEE ASLI 2027
+- Ethics Chair, INTERSPEECH 2025–2026
+- Chair, ISCA Ethics Committee
+- Management Committee, GRADE COST Action
+- Working group member, CoARA
+- Chair, Campus Fryslân Ethics Committee
+
+[AI Ethics page →](ai-ethics.qmd)
+:::
+
+::: {.theme-col .theme-news}
+### In the news
+
+::: {#news-ethics}
+:::
+:::
+::::
+
+## AI for small data {#small-data}
+
+Most of the world's languages have little recorded speech, and the systems in widest use simply skip them. We build speech recognition and synthesis that work from small amounts of data, using multilingual and cross-lingual transfer, data augmentation and evaluation methods designed for low-resource settings. Frisian, Bildts and Luxembourgish are current cases.
+
+The linguistic groundwork comes from years of fieldwork on Aymara and other Andean languages: a reference grammar, studies of its phonology and verbal art, and an early rule-based machine translation system.
+
+:::: {.theme-columns}
+::: {.theme-col}
+### Publications
+
+::: {#pubs-small}
+:::
+
+[Low-resource speech →](publications.qmd#low-resource-speech) · [Andean languages →](publications.qmd#andean-languages) · [Language diversity →](publications.qmd#language-diversity)
+:::
+
+::: {.theme-col .theme-news}
+### In the news
+
+::: {#news-small}
+:::
+:::
+::::
+
+**Datasets:** [luxembourgish-asr-rtl-lu](https://huggingface.co/datasets/Lemswasabi/luxembourgish-asr-rtl-lu), a Luxembourgish speech corpus from RTL.lu (Hugging Face, 2022).
+
+## Meaning beyond words {#meaning}
+
+Speech carries more than words: emotion, intent, irony. Sarcasm is our central test case, since speakers routinely mean the opposite of what they say. We combine acoustic, linguistic and visual cues to detect it, and we synthesize it to find out which cues listeners actually use. Related work looks at how listeners perceive prosody, including through cochlear implants and in Parkinson's speech, and at how people experience sound in everyday places.
+
+:::: {.theme-columns}
+::: {.theme-col}
+### Publications
+
+::: {#pubs-meaning}
+:::
+
+[Multimodal AI →](publications.qmd#multimodal-ai) · [Prosody →](publications.qmd#prosody) · [Sensory experiences →](publications.qmd#sensory-experiences)
+:::
+
+::: {.theme-col .theme-news}
+### In the news
+
+::: {#news-meaning}
+:::
+:::
+::::
+
+**Datasets:** [MCSD 1.0](https://doi.org/10.34894/A0NLTQ), Multimodal Chinese Sarcasm Dataset (DataverseNL, 2025).
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Media coverage
+
+- The Guardian (2024): ["Why 'emotional AI' is fraught with problems"](https://www.theguardian.com/technology/article/2024/jun/23/emotional-artificial-intelligence-chatgpt-4o-hume-algorithmic-bias)
+- The Guardian (2024): ["Researchers build AI-driven sarcasm detector"](https://www.theguardian.com/technology/article/2024/may/16/researchers-build-ai-driven-sarcasm-detector)
+- Euronews (2024): ["AI can detect sarcasm now. Great…"](https://www.euronews.com/culture/2024/05/22/ai-can-detect-sarcasm-now-great)
+- Popular Science (2024): ["Neural network trained on 'Friends' can recognize sarcasm"](https://www.popsci.com/technology/sarcasm-algorithm/)
+- BBC Radio 4 and BBC Radio 5 Live (2024): sarcasm detector interviews
+- CBC Radio (2024): ["As It Happens" interview](https://www.cbc.ca/listen/live-radio/1-2/clip/16068050)
+- NOS (2024): ["Computer herkent sarcasme steeds beter"](https://nos.nl/artikel/2520728-computer-herkent-sarcasme-steeds-beter)
+:::
+
+```{=html}
+<script>
+// Hide an "In the news" column when no post carries the theme's tags yet.
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".theme-news").forEach(function (col) {
+    if (!col.querySelector(".theme-news-item")) col.style.display = "none";
+  });
+});
+</script>
+```

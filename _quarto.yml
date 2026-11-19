@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: _check_publications.py
+  render:
+    - "*.qmd"
+    - "!README.md"
+
+website:
+  title: "Matt Coler"
+  site-url: "https://mattcoler.github.io"
+  description: "Speech technology, AI ethics and language diversity. Associate Professor, University of Groningen."
+  favicon: images/favicon.svg
+  navbar:
+    right:
+      - research.qmd
+      - ai-ethics.qmd
+      - publications.qmd
+      - news.qmd
+      - teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - icon: github
+        href: "https://github.com/mattcoler"
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Matt Coler · Built with [Quarto](https://quarto.org)"
+    right:
+      - text: "iD"
+        href: https://orcid.org/0000-0002-7631-5063
+        aria-label: ORCID
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mcoler/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:m.coler@rug.nl
+        aria-label: Email
+
+format:
+  html:
+    theme:
+      dark: [cosmo, custom-dark.scss]   # listed first = the default
+      light: [cosmo, custom.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

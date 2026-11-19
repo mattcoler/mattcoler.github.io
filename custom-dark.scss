@@ -1,0 +1,37 @@
+/*-- scss:defaults --*/
+// Palette: graphite grey and neon green (dark, the default).
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, sans-serif;
+$headings-font-family: "Newsreader", Georgia, serif;
+$headings-font-weight: 500;
+
+$accent: #39FF88;      // green for small text: years, labels, active menu item
+$fill: #39FF88;        // green for filled shapes: active chips, buttons
+$fill-text: #111214;
+$indigo: #9CF5C0;      // links
+$ink: #E8E6E3;
+$muted: #A9A7A4;
+$tint: #2A2B30;
+$rule: #3A3C42;
+$ground: #1E1F22;
+$band: linear-gradient(90deg, #0B3D22 0%, #1FA85A 50%, #39FF88 100%);
+
+$body-bg: $ground;
+$body-color: $ink;
+$primary: $fill;
+$link-color: $indigo;
+$link-decoration: none;
+$navbar-bg: $ground;
+$navbar-fg: $ink;
+$navbar-hl: $accent;
+$footer-bg: $ground;
+$footer-fg: $muted;
+$text-muted: $muted;
+$border-color: $rule;
+$callout-color-note: $fill;
+$input-bg: $tint;
+$input-border-color: $rule;
+
+/*-- scss:rules --*/
+@import "rules";

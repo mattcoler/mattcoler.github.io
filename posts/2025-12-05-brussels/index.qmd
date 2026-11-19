@@ -1,0 +1,19 @@
+---
+title: "Speech Technology and Minority Language Preservation"
+description: "Talk at *Regional and Minority Languages: Game Changer in the Digital World?*, Brussels."
+date: 2025-12-05
+categories: [language-diversity, talk]
+image: https://i.postimg.cc/mr2sKYy8/2512.png
+aliases:
+  - /speech-technology-and-minority-language-preservation-brussels/
+---
+
+On 5 December 2025, I gave a talk on **"Speech Technology and Minority Language Preservation"** as part of the event *Regional and Minority Languages: Game Changer in the Digital World?* in Brussels, Belgium.
+
+The event brought together researchers, policymakers, and stakeholders from across Europe to discuss how regional and minority languages can shape the future of digital technologies. My contribution focused on the role of speech technology in supporting linguistic diversity and ensuring that advances in AI benefit not only major world languages, but also the many languages that remain underrepresented in digital systems.
+
+Developing speech technologies for minority languages presents technical and societal challenges, from limited training data to appropriate evaluation methods and sustainable language resources. At the same time, these technologies offer new opportunities for language preservation, revitalisation, and participation in the digital world.
+
+The discussions highlighted the importance of collaboration between technology developers, language communities, researchers, and policymakers to build a more inclusive digital future.
+
+![Speaking about speech technology and minority language preservation in Brussels](https://i.postimg.cc/mr2sKYy8/2512.png)

@@ -1,0 +1,68 @@
+---
+title: "News"
+listing:
+  id: news-list
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: unnumbered
+  sort-ui: false
+  filter-ui: true
+  date-format: "D MMMM YYYY"
+  feed: true
+---
+
+Talks, keynotes, awards and other updates. Filter by tag or search below.
+
+::: {#pub-chips .pub-chips}
+:::
+
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var box = document.getElementById("pub-chips");
+  var src = document.querySelectorAll(".quarto-listing-category .category");
+  if (!box || !src.length) return;
+  var tags = Array.prototype.map.call(src, function (el) { return el.textContent; });
+  var active = "";
+  function apply() {
+    var lists = window["quarto-listings"] || {};
+    Object.keys(lists).forEach(function (id) {
+      var list = lists[id];
+      if (!list) return;
+      if (!active) { list.filter(); return; }
+      list.filter(function (item) {
+        var v = item.values().categories;
+        var cats = v ? decodeURIComponent(atob(v)).split(",") : [];
+        return cats.indexOf(active) >= 0;
+      });
+    });
+  }
+  var wrap = document.createElement("div");
+  wrap.className = "pub-chip-row";
+  wrap.setAttribute("role", "group");
+  wrap.setAttribute("aria-label", "Filter by tag");
+  var lab = document.createElement("span");
+  lab.className = "pub-chip-label";
+  lab.textContent = "Tag";
+  wrap.appendChild(lab);
+  var buttons = [];
+  ["All"].concat(tags).forEach(function (t) {
+    var val = t === "All" ? "" : t;
+    var b = document.createElement("button");
+    b.type = "button";
+    b.textContent = t;
+    b.setAttribute("aria-pressed", val === "" ? "true" : "false");
+    b.addEventListener("click", function () {
+      active = val;
+      buttons.forEach(function (o) { o.setAttribute("aria-pressed", o === b ? "true" : "false"); });
+      apply();
+    });
+    buttons.push(b);
+    wrap.appendChild(b);
+  });
+  box.appendChild(wrap);
+  document.body.classList.add("has-pub-chips");
+});
+</script>
+```

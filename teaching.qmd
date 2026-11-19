@@ -1,0 +1,39 @@
+---
+title: "Teaching"
+---
+
+::: {.panel}
+**Course website →** [COURSE NAME](https://mattcoler.github.io/COURSE-REPO/)<br>
+Lives in its own repository and appears under this site's address.
+:::
+
+## PhD training
+
+- **November 2026**: *Research Ethics*, workshop for PhD students, Campus Fryslân Graduate School, University of Groningen
+
+## Programs co-developed
+
+- **MSc Speech Technology**, development team lead. Approved by the Dutch Ministry of Science with a perfect score.
+- **BSc Data Science & Society**, development team member.
+- **BSc Global Responsibility & Leadership**, development team member.
+
+## Courses (co-)developed
+
+**Graduate:** Introduction to Voice Technology · Thesis Design · Speech Synthesis I & II · Speech Recognition I & II · Python for Speech Technology · Machine Learning for Speech Technology · Research Design
+
+**Undergraduate:** Culture 100 · Culture 200
+
+## Teaching experience
+
+- **2026**: Research Design (graduate), University of Groningen
+- **2020–2025**: Culture 200 (undergraduate), University of Groningen. Student evaluation score: 8.6/10
+- **2023**: Introduction to Speech Technology (graduate), University of Groningen
+- **2018–2020**: Culture 100 (undergraduate), University of Groningen
+- **2015**: Sensor Technology (undergraduate), TU/e Eindhoven
+- **2013–2014**: Communication (undergraduate), Amsterdam University of Applied Sciences
+- **2012**: Anthropological Linguistics (undergraduate), Free University Amsterdam
+
+## Summer schools and training
+
+- Co-organizer, Speech Tech Summer Schools (2023–2024)
+- Senior Teaching Qualification (STQ), *GPT in the classroom* (2024)

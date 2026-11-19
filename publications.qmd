@@ -1,0 +1,86 @@
+---
+title: "Publications"
+listing:
+  contents: publications.yml
+  template: _publications.ejs
+  sort: "year desc"
+  categories: unnumbered
+  filter-ui: [title, authors, venue, year, categories]
+  sort-ui: false
+  fields: [title, authors, venue, year, categories, url, pdf]
+  page-size: 100
+---
+
+100+ publications, including 4 books and 20+ book chapters, with Brill, Benjamins, Language Science Press, Oxford University Press and Springer. Filter them below by type and topic; [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en) have the complete record.
+
+::: {#pub-chips .pub-chips}
+:::
+
+```{=html}
+<script>
+// Types get their own row of chips; every other category is a topic.
+var PUB_TYPES = ["Journal article", "Conference paper", "Book chapter", "Book", "Preprint", "Report", "Dataset", "Patent"];
+
+document.addEventListener("DOMContentLoaded", function () {
+  var box = document.getElementById("pub-chips");
+  var src = document.querySelectorAll(".quarto-listing-category .category");
+  if (!box || !src.length) return;
+  var names = Array.prototype.map.call(src, function (el) { return el.textContent; });
+  var types = PUB_TYPES.filter(function (t) { return names.indexOf(t) >= 0; });
+  var topics = names.filter(function (n) { return PUB_TYPES.indexOf(n) < 0; });
+  var active = { type: "", topic: "" };
+
+  function apply() {
+    var lists = window["quarto-listings"] || {};
+    Object.keys(lists).forEach(function (id) {
+      var list = lists[id];
+      if (!list) return;
+      if (!active.type && !active.topic) { list.filter(); return; }
+      list.filter(function (item) {
+        var v = item.values().categories;
+        var cats = v ? decodeURIComponent(atob(v)).split(",") : [];
+        return (!active.type || cats.indexOf(active.type) >= 0) &&
+               (!active.topic || cats.indexOf(active.topic) >= 0);
+      });
+    });
+  }
+
+  function row(label, key, values) {
+    var wrap = document.createElement("div");
+    wrap.className = "pub-chip-row";
+    wrap.setAttribute("role", "group");
+    wrap.setAttribute("aria-label", "Filter by " + label.toLowerCase());
+    var lab = document.createElement("span");
+    lab.className = "pub-chip-label";
+    lab.textContent = label;
+    wrap.appendChild(lab);
+    var buttons = [];
+    ["All"].concat(values).forEach(function (v) {
+      var val = v === "All" ? "" : v;
+      var b = document.createElement("button");
+      b.type = "button";
+      b.textContent = v;
+      b.setAttribute("aria-pressed", val === "" ? "true" : "false");
+      b.addEventListener("click", function () {
+        active[key] = val;
+        buttons.forEach(function (o) { o.setAttribute("aria-pressed", o === b ? "true" : "false"); });
+        apply();
+      });
+      buttons.push(b);
+      wrap.appendChild(b);
+    });
+    box.appendChild(wrap);
+  }
+
+  row("Type", "type", types);
+  row("Topic", "topic", topics);
+  document.body.classList.add("has-pub-chips");
+  // A link like publications.html#low-resource-speech opens with that topic selected.
+  var want = decodeURIComponent(location.hash.slice(1)).toLowerCase();
+  if (want) {
+    var slug = function (t) { return t.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""); };
+    box.querySelectorAll("button").forEach(function (b) { if (slug(b.textContent) === want) b.click(); });
+  }
+});
+</script>
+```

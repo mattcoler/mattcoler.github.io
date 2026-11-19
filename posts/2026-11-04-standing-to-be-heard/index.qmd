@@ -1,0 +1,23 @@
+---
+title: "Standing to Be Heard"
+description: "Online keynote at *Human in the Age of Algorithms*, Ege University, İzmir."
+date: 2026-11-04
+categories: [ai-ethics, keynote, language-diversity, talk]
+image: https://i.postimg.cc/7ZFL3CMF/Standing-To-Be-Heard-Keynote.jpg
+aliases:
+  - /standing-to-be-heard-ege-university/
+---
+
+On 4 November 2026, I gave the online keynote "Standing to Be Heard: Speech Technology and the Community of Speakers" at *Human in the Age of Algorithms*, a hybrid conference hosted by Ege University in İzmir.
+
+The talk picks up where [Who Governs the Spoken Word?](../2026-06-09-who-governs/index.qmd) left off in Warsaw. There I mapped the governance gaps around speech tech for minoritized languages. Here I propose a way to close one of them.
+
+> Speech technology decides who gets heard in public agencies, classrooms and courts. The law governing it was written earlier, for other problems, and assumes the claimant is an individual with a grievance. But when speech technology fails, it fails everyone who speaks a given way. The law recognizes the harm but not the claimant.
+>
+> The talk tests that gap against two cases. West Frisian is absent from the speech recognition systems in widest use, and its speakers fall between two instruments. The European Charter for Regional or Minority Languages recognizes them but offers no judicial remedy. The EU AI Act is enforceable but gives no group a right to complain; the European Parliament's 2023 draft included that right, and negotiations removed it. Türkiye's data protection law, built on the individual data subject, reproduces the same gap. In the second case, Wikimedia refused a Tasmanian Aboriginal request over palawa kani vocabulary on the ground that a language cannot be owned.
+>
+> I argue for a category the law does not have: the community of speakers as a rights-holder, entitled to consultation before deployment, consent over the corpus, and standing to be heard once a system runs.
+
+![Standing to Be Heard keynote](https://i.postimg.cc/7ZFL3CMF/Standing-To-Be-Heard-Keynote.jpg)
+
+![Keynote at Ege University](https://i.postimg.cc/T1Z9SFJM/Screenshot-2026-11-04-at-13-07-17.png)

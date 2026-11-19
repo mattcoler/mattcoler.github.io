@@ -1,0 +1,8 @@
+<ul class="recent-pubs">
+<% for (const item of items) { %>
+<li <%= metadataAttrs(item) %>>
+<% if (item.url) { %><a href="<%- item.url %>"><%= item.title %></a><% } else { %><%= item.title %><% } %>.
+<% const a = String(item.authors); const k = a.indexOf("Coler, M."); %><span class="recent-meta"><% if (k >= 0) { %><%= a.slice(0, k) %><strong>Coler, M.</strong><%= a.slice(k + 9) %><% } else { %><%= a %><% } %> (<%= item.year %>)<% if (item.venue) { %> · <em><%= item.venue %></em><% } %></span>
+</li>
+<% } %>
+</ul>

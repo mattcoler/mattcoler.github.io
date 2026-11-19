@@ -1,0 +1,8 @@
+<ul class="theme-news-list">
+<% for (const item of items) { %>
+<li <%= metadataAttrs(item) %> class="theme-news-item">
+<a href="<%- item.path %>"><%= item.title %></a>
+<span class="recent-meta"><%= item.date %></span>
+</li>
+<% } %>
+</ul>

@@ -1,0 +1,71 @@
+---
+title: "Matt Coler"
+subtitle: "Associate Professor · Speech Tech · AI Ethics"
+pagetitle: "Matt Coler"
+about:
+  id: about
+  template: trestles
+  image: images/portrait.jpg
+  image-alt: "Matt Coler looking down from a gallery window in a high, white-plastered hall"
+  image-shape: rounded
+  image-width: 20em
+listing:
+  - id: recent-papers
+    contents: publications.yml
+    template: _recent-pubs.ejs
+    sort: "year desc"
+    max-items: 3
+    fields: [title, authors, venue, year, url]
+  - id: recent-news
+    contents: posts
+    sort: "date desc"
+    type: default
+    max-items: 3
+    fields: [date, title, description]
+    date-format: "D MMMM YYYY"
+    feed: false
+---
+
+:::: {#about}
+
+```{=html}
+<div class="profile-head">
+<p class="profile-affil">Campus Fryslân, University of Groningen</p>
+<div class="profile-links" aria-label="Profiles and contact">
+  <a href="https://orcid.org/0000-0002-7631-5063" title="ORCID" aria-label="ORCID"><span class="orcid-id" aria-hidden="true">iD</span></a>
+  <a href="https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
+  <a href="https://www.linkedin.com/in/mcoler/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin" aria-hidden="true"></i></a>
+  <a href="mailto:m.coler@rug.nl" title="Email" aria-label="Email m.coler@rug.nl"><i class="bi bi-envelope" aria-hidden="true"></i></a>
+</div>
+</div>
+<script>
+// Place affiliation and icons under the name and subtitle, centred.
+document.addEventListener("DOMContentLoaded", function () {
+  var head = document.querySelector(".profile-head");
+  var entity = document.querySelector(".about-entity");
+  if (head && entity) entity.appendChild(head);
+});
+</script>
+```
+
+::: {.lead-serif}
+I work at the intersection of speech technology, AI ethics governance, and language diversity. I direct the MSc Speech Technology program and serve as Department Head of Governance & Technology at the University of Groningen.
+
+My research focuses on speech synthesis, recognition, and evaluation, alongside the ethical governance of AI systems. In addition to supervising doctoral students, I chair ethics at INTERSPEECH 2025–2026, serve on the ISCA Ethics Committee, and evaluate research for the European Commission.
+:::
+
+::::
+
+## Recent papers
+
+::: {#recent-papers}
+:::
+
+[All publications →](publications.qmd)
+
+## News
+
+::: {#recent-news}
+:::
+
+[All news →](news.qmd)
