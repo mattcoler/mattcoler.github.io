@@ -11,7 +11,7 @@ listing:
   page-size: 100
 ---
 
-100+ publications, including 4 books and 20+ book chapters, with Brill, Benjamins, Language Science Press, Oxford University Press and Springer. Filter them below by type and topic; [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en) have the complete record.
+100+ publications, including 4 books and 20+ book chapters, with Brill, Benjamins, Language Science Press, Oxford University Press and Springer. Filter them by type and topic; [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en) have the complete record.
 
 ::: {#pub-chips .pub-chips}
 :::
@@ -75,6 +75,29 @@ document.addEventListener("DOMContentLoaded", function () {
   row("Type", "type", types);
   row("Topic", "topic", topics);
   document.body.classList.add("has-pub-chips");
+  // Wide screens: chips and search sit in the right column. Phones keep them above the list.
+  var side = document.getElementById("quarto-margin-sidebar");
+  var search = document.querySelector(".quarto-listing-filter");
+  if (side && window.matchMedia("(min-width: 992px)").matches) {
+    if (search) box.insertBefore(search, box.firstChild);
+    side.insertBefore(box, side.firstChild);
+    document.body.classList.add("pub-chips-side");
+  } else {
+    // Phones: tuck the chip rows behind one button so the list starts sooner.
+    var det = document.createElement("details");
+    det.className = "pub-chips-toggle";
+    var sum = document.createElement("summary");
+    sum.textContent = "Filter by type and topic";
+    det.appendChild(sum);
+    Array.prototype.slice.call(box.querySelectorAll(".pub-chip-row")).forEach(function (r) { det.appendChild(r); });
+    box.appendChild(det);
+    box.addEventListener("click", function () {
+      var picked = Array.prototype.filter.call(box.querySelectorAll(".pub-chip-row"), function (r) {
+        return r.querySelector("button").getAttribute("aria-pressed") !== "true";
+      }).length;
+      sum.textContent = "Filter by type and topic" + (picked ? " (" + picked + " on)" : "");
+    });
+  }
   // A link like publications.html#low-resource-speech opens with that topic selected.
   var want = decodeURIComponent(location.hash.slice(1)).toLowerCase();
   if (want) {
