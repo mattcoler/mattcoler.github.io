@@ -3,8 +3,8 @@ title: "Teaching"
 ---
 
 ::: {.panel}
-**Course website →** [COURSE NAME](https://mattcoler.github.io/COURSE-REPO/)<br>
-Lives in its own repository and appears under this site's address.
+**Course website →** [Research Design](https://mattcoler.github.io/research-design/)<br>
+Thesis preparation course for the MSc Speech Technology: syllabus, schedule, assignments, frameworks and games. The materials are open on [GitHub](https://github.com/mattcoler/research-design).
 :::
 
 ## PhD training
@@ -19,13 +19,13 @@ Lives in its own repository and appears under this site's address.
 
 ## Courses (co-)developed
 
-**Graduate:** Introduction to Voice Technology · Thesis Design · Speech Synthesis I & II · Speech Recognition I & II · Python for Speech Technology · Machine Learning for Speech Technology · Research Design
+**Graduate:** Introduction to Voice Technology · Thesis Design · Speech Synthesis I & II · Speech Recognition I & II · Python for Speech Technology · Machine Learning for Speech Technology · [Research Design](https://mattcoler.github.io/research-design/)
 
 **Undergraduate:** Culture 100 · Culture 200
 
 ## Teaching experience
 
-- **2026**: Research Design (graduate), University of Groningen
+- **2026**: [Research Design](https://mattcoler.github.io/research-design/) (graduate), University of Groningen
 - **2020–2025**: Culture 200 (undergraduate), University of Groningen. Student evaluation score: 8.6/10
 - **2023**: Introduction to Speech Technology (graduate), University of Groningen
 - **2018–2020**: Culture 100 (undergraduate), University of Groningen
