@@ -1,7 +1,7 @@
 ---
 title: "PLURILINGMEDIA ad hoc group for AI in Valletta, Malta"
 date: 2026-10-06
-categories: [ai-ethics, language-diversity, talk]
+categories: [AI ethics, Language diversity, Talk]
 image: https://i.postimg.cc/fknrxr84/Screenshot-2026-10-08-at-12-13-35.png
 ---
 On 5–6 October 2026, I joined the AI Ad Hoc Committee of [PLURILINGMEDIA](https://plurilingmedia.eu/) in Valletta for its working meeting, hosted by Claudia Borg at the University of Malta.

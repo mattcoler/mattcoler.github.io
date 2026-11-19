@@ -1,7 +1,7 @@
 ---
 title: "Billion-Dollar Voices and Minority Languages — Keynote at the University of Warsaw Winter Innovation School"
 date: 2025-12-15
-categories: [keynote, language-diversity, talk]
+categories: [Keynote, Language diversity, Talk]
 image: https://i.postimg.cc/655f2TcL/Screenshot-2026-08-07-at-22-53-26.png
 ---
 On 15 December 2025, I gave the keynote **“Billion-Dollar Voices and Minority Languages: The Promise and Challenge of Speech Technology”** at the University of Warsaw Winter Innovation School, *At the Heart of Artificial Intelligence Research*.

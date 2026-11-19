@@ -1,7 +1,7 @@
 ---
 title: "Board Games Against the Machine"
 date: 2026-02-13
-categories: [ai-ethics, teaching]
+categories: [AI ethics, Teaching]
 image: https://i.postimg.cc/MHRFXQLd/Screenshot-2026-09-08-at-15-24-53.png
 ---
 In February 2026 I ran a session of [UnExpected Values: From Dystopia to Utopia](https://www.rug.nl/jantina-tammes-school/education/game-unexpected-values/) in Research Design, the thesis preparation course for the MSc Speech Technology. The Jantina Tammes School has since written it up as a [case study](https://www.rug.nl/jantina-tammes-school/education/game-unexpected-values/case-studies/making-ethical-tensions-tangible-in-speech-technology-education).

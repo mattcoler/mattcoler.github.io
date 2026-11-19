@@ -1,7 +1,7 @@
 ---
 title: "The Governance Gap in AI for Minoritized Languages"
 date: 2026-09-14
-categories: [ai-ethics, language-diversity, talk]
+categories: [AI ethics, Language diversity, Talk]
 image: https://i.postimg.cc/prMdd280/Screenshot-2026-09-14-at-09-29-31.png
 ---
 On 14 September 2026, I gave a guest lecture, "The Governance Gap in AI for Minoritized Languages," opening a working meeting of the AI Ad Hoc Committee of [PLURILINGMEDIA](https://plurilingmedia.eu/), a COST Action on media in Europe's regional and minority languages.

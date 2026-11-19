@@ -110,3 +110,6 @@ h2 { border-bottom-color: $rule; }
   }
   &[open] summary { margin-bottom: 1rem; &::after { content: "▴"; } }
 }
+
+// Post tags read exactly as written, matching the filter buttons
+.listing-category, .quarto-category { text-transform: none !important; letter-spacing: 0 !important; }

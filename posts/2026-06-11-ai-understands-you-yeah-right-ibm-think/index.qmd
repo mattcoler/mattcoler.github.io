@@ -1,7 +1,7 @@
 ---
 title: "AI Understands You? Yeah, Right — Featured in IBM Think"
 date: 2026-06-11
-categories: [media, multimodal-ai]
+categories: [Media, Multimodal AI]
 image: https://i.postimg.cc/8z0d9PpJ/Screenshot-2026-08-13-at-17-05-38.png
 ---
 Our sarcasm research was featured in IBM Think, in a piece on why AI still struggles to catch sarcasm — and why that's a problem for AI in customer-facing roles.

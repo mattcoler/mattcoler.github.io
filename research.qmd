@@ -5,7 +5,7 @@ listing:
     contents: posts
     template: _theme-news.ejs
     include:
-      categories: ["ai-ethics"]
+      categories: ["AI ethics"]
     sort: "date desc"
     max-items: 3
   - id: pubs-small
@@ -19,7 +19,7 @@ listing:
     contents: posts
     template: _theme-news.ejs
     include:
-      categories: ["language-diversity", "Aymara"]
+      categories: ["Language diversity", "Aymara"]
     sort: "date desc"
     max-items: 3
   - id: pubs-meaning
@@ -33,7 +33,7 @@ listing:
     contents: posts
     template: _theme-news.ejs
     include:
-      categories: ["multimodal-ai", "media"]
+      categories: ["Multimodal AI", "Media"]
     sort: "date desc"
     max-items: 3
 ---

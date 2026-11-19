@@ -1,7 +1,7 @@
 ---
 title: "Speech Technology and Minority Language Preservation — Brussels"
 date: 2025-12-05
-categories: [language-diversity, talk]
+categories: [Language diversity, Talk]
 image: https://i.postimg.cc/mr2sKYy8/2512.png
 ---
 On 5 December 2025, I gave a talk on **“Speech Technology and Minority Language Preservation”** as part of the event *Regional and Minority Languages: Game Changer in the Digital World?* in Brussels, Belgium.

@@ -1,7 +1,7 @@
 ---
 title: "Voice AI Knows What You Say But Not What You Mean"
 date: 2026-05-26
-categories: [ai-ethics, talk]
+categories: [AI ethics, Talk]
 image: https://i.postimg.cc/x8774dHc/ai.png
 ---
 Voice AI Space is a global community of builders, founders, and researchers exploring how machines listen, speak, and interact with people; Amsterdam followed earlier meetups in Barcelona, London, Dubai, Paris, and New York. The evening mixed networking with short talks and live demos from people building across the voice AI stack.

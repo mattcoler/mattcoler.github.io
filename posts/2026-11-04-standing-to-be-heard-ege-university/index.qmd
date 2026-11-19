@@ -1,7 +1,7 @@
 ---
 title: "Standing to Be Heard — Keynote at Ege University"
 date: 2026-11-04
-categories: [ai-ethics, keynote, language-diversity, talk]
+categories: [AI ethics, Keynote, Language diversity, Talk]
 image: https://i.postimg.cc/7ZFL3CMF/Standing-To-Be-Heard-Keynote.jpg
 ---
 On November 4 2026, I gave the online keynote "Standing to Be Heard: Speech Technology and the Community of Speakers" at Human in the Age of Algorithms, a hybrid conference hosted by Ege University in İzmir.

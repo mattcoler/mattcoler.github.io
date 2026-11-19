@@ -1,7 +1,7 @@
 ---
 title: "Who Governs the Spoken Word? (U Warsaw)"
 date: 2026-06-09
-categories: [ai-ethics, language-diversity, talk]
+categories: [AI ethics, Language diversity, Talk]
 image: https://i.postimg.cc/wvB9K7th/wawa1.png
 ---
 On 9 June 2026, I gave a talk, "Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law," at the [AI & Marginalized Knowledge Systems: Challenges for Research and Society workshop](https://filozofia.uw.edu.pl/2026/06/ai-marginalized-knowledge-systems-challenges-for-research-and-society/) at the University of Warsaw.

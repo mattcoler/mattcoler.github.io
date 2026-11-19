@@ -1,7 +1,7 @@
 ---
 title: "Speaking Machines and Living Languages — Keynote at the University of Warsaw"
 date: 2025-10-17
-categories: [keynote, language-diversity, talk]
+categories: [Keynote, Language diversity, Talk]
 image: https://i.postimg.cc/4NKWdmBz/251017.png
 ---
 On 17 October 2025, I gave the keynote “Speaking Machines and Living Languages” at [Breakthroughs: Cutting-edge research in the humanities and social sciences](https://inicjatywadoskonalosci.uw.edu.pl/en/breakthroughs-2025/) at the University of Warsaw.

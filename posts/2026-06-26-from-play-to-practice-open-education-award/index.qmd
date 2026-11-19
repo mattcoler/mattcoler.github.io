@@ -1,7 +1,7 @@
 ---
 title: "From Play to Practice: Open Education Award"
 date: 2026-06-26
-categories: [funding, teaching]
+categories: [Funding, Teaching]
 ---
 My project "From Play to Practice" has been awarded the [Open Education Incubator Fund by the Teaching Academy Groningen](https://www.rug.nl/about-ug/organization/service-departments/teaching-academy-groningen/grants-support/open-education-incubator-fund?lang=en).
 

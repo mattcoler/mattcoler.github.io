@@ -20,13 +20,8 @@ Talks, keynotes, awards and other updates. Filter them by type and topic, or sea
 ```{=html}
 <script>
 // Tags listed here form the Type row; every other tag is a topic.
-var NEWS_TYPES = ["talk", "keynote", "media", "funding", "publications", "teaching"];
-// Display names for tags; anything missing just gets a capital first letter.
-var NEWS_LABELS = {
-  "ai-ethics": "AI ethics", "language-diversity": "Language diversity",
-  "multimodal-ai": "Multimodal AI", "research integrity": "Research integrity",
-  "publications": "Publication"
-};
+// Post tags are written exactly as they should appear, e.g. "AI ethics", "Talk".
+var NEWS_TYPES = ["Talk", "Keynote", "Media", "Funding", "Publication", "Teaching"];
 
 document.addEventListener("DOMContentLoaded", function () {
   var box = document.getElementById("pub-chips");
@@ -35,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var tags = Array.prototype.map.call(src, function (el) { return el.textContent; });
   var types = NEWS_TYPES.filter(function (t) { return tags.indexOf(t) >= 0; });
   var topics = tags.filter(function (t) { return NEWS_TYPES.indexOf(t) < 0; });
-  var label = function (t) { return NEWS_LABELS[t] || t.charAt(0).toUpperCase() + t.slice(1); };
+  var label = function (t) { return t; };
   var active = { type: "", topic: "" };
 
   function apply() {

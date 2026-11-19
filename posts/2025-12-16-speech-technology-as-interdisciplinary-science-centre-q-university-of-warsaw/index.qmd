@@ -1,7 +1,7 @@
 ---
 title: "Speech Technology as Interdisciplinary Science — Centre Q Lecture at the University of Warsaw"
 date: 2025-12-16
-categories: [ai-ethics, language-diversity, talk]
+categories: [AI ethics, Language diversity, Talk]
 image: https://i.postimg.cc/286Xp0sN/Screenshot-2026-08-07-at-23-11-20.png
 ---
 On 16 December 2025, I gave a lecture entitled **“Speech Technology as Interdisciplinary Science”** at Centre Q — the Centre for Research on Culture, Language and Mind at the University of Warsaw.
