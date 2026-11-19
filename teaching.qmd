@@ -4,7 +4,7 @@ title: "Teaching"
 
 ::: {.panel}
 **Course website →** [Research Design](https://mattcoler.github.io/research-design/)<br>
-Thesis preparation course for the MSc Speech Technology: syllabus, schedule, assignments, frameworks and games. The materials are open on [GitHub](https://github.com/mattcoler/research-design).
+Thesis preparation course for the MSc Speech Technology: syllabus, schedule, assignments, frameworks and games.
 :::
 
 ## PhD training
