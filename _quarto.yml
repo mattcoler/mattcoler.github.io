@@ -16,10 +16,10 @@ website:
       - research.qmd
       - ai-ethics.qmd
       - publications.qmd
-      - news.qmd
       - teaching.qmd
       - text: CV
         href: cv.qmd
+      - news.qmd
       - icon: github
         href: "https://github.com/mattcoler"
         aria-label: GitHub
