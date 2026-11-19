@@ -1,0 +1,16 @@
+---
+title: "Page not found"
+---
+
+That page doesn't exist, or it moved when this site was rebuilt. Try [Publications](publications.qmd), [News](news.qmd) or the [home page](index.qmd).
+
+```{=html}
+<script>
+// Old site addresses (still in search engines) go to their new home.
+(function () {
+  var p = location.pathname;
+  if (/^\/publication(s)?\//.test(p)) location.replace("/publications.html");
+  else if (/^\/(post|posts|blog)\//.test(p) && !/\.html$/.test(p)) location.replace("/news.html");
+})();
+</script>
+```
