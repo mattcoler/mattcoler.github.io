@@ -5,8 +5,6 @@ toc-title: "Sections"
 toc-depth: 2
 ---
 
-[Download PDF](https://www.overleaf.com/read/OVERLEAF-LINK){.btn .btn-primary .btn-sm}
-
 Matt Coler received his PhD from the Free University of Amsterdam in 2010. After a postdoctoral appointment at his alma mater, he joined an AI start-up focused on acoustic sensors, where he served as head of the cognitive systems unit. In 2012 he returned to academia. He is currently an Associate Professor of Speech Technology at Campus Fryslân, University of Groningen, where he directs the MSc Speech Technology program and heads the Governance & Technology Department.
 
 ## Employment
