@@ -11,7 +11,7 @@ listing:
   page-size: 100
 ---
 
-100+ publications, including 4 books and 20+ book chapters, with Brill, Benjamins, Language Science Press, Oxford University Press and Springer. Filter them by type and topic; [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en) have the complete record.
+100+ publications, including 4 books and 13 book chapters, with Brill, Benjamins, Language Science Press, Oxford University Press and Springer. Filter them by type and topic; [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en) have the complete record.
 
 ::: {#pub-chips .pub-chips}
 :::

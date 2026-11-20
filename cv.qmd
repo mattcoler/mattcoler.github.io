@@ -9,6 +9,7 @@ Matt Coler received his PhD from the Free University of Amsterdam in 2010. After
 
 ## Employment
 
+- **2026–present**: Affiliated Professor, Institute for Advanced Studies, University of Warsaw
 - **2020–present**: Associate Professor, University of Groningen
 - **2016–2020**: Assistant Professor, University of Groningen
 - **2012–2016**: Head, Cognitive Systems, Innovation Center for Sensor Systems
@@ -30,7 +31,7 @@ Matt Coler received his PhD from the Free University of Amsterdam in 2010. After
 
 ## Funding
 
-Over €15M in competitively awarded international research funding across EU, national, and regional programmes, in speech technology and AI, minority and low-resource languages, language preservation, human-centred technology, and acoustic sensing. Small grants for feasibility studies and virtual exchange are not listed.
+Roles in international research projects with combined budgets over €15M, funded by EU, national, and regional programmes, in speech technology and AI, minority and low-resource languages, language preservation, human-centred technology, and acoustic sensing. Small grants for feasibility studies and virtual exchange are not listed.
 
 - **2023–2024**: **LITHME COST Action CA19102**, Vice-Chair. White Paper, short-term scientific missions, guest lectures.
 - **2017–2025**: **H2020-MSCA-RISE-2017: COLING**, *Minority Languages, Major Opportunities: Collaborative Research, Community Engagement and Innovative Educational Tools*. €1.58M total (€189k for my team). Steering Committee Member and Work Package Leader.
@@ -42,7 +43,7 @@ Over €15M in competitively awarded international research funding across EU, n
 
 ### Management positions
 
-- **2025–present**: Department Head, Technology, Governance & Innovation Department, Campus Fryslân
+- **2025–present**: Department Head, Governance & Technology Department, Campus Fryslân
 - **2023–2025**: Chair, Faculty Research Institute, Campus Fryslân
 - **2021–2025**: Chair, Admissions Board, MSc Speech Technology, Campus Fryslân
 - **2021–2023**: Director, Graduate School, Campus Fryslân
@@ -53,9 +54,9 @@ Over €15M in competitively awarded international research funding across EU, n
 ### Ethics
 
 - **2027**: Ethics Chair, IEEE ASLI 2027 (International Conference on Audio, Speech, and Language Intelligence), Singapore
-- **2025–2026**: Chair, ISCA Ethics Committee
+- **2025–2026**: Member, ISCA Ethics Committee
 - **2025–2026**: Ethics Chair, Interspeech
-- **2026–present**: Chair, Ethics Committee, Campus Fryslân (previously 2018–2020)
+- **2025–present**: Chair, Ethics Committee, Campus Fryslân (previously 2018–2020)
 - **2024**: Co-organizer, *Exploring the Dark Side of Future Language Technologies*
 - **2023–present**: Working Group Member, CoARA, Ethics and Research Integrity Policy
 
@@ -130,7 +131,7 @@ See [Teaching](teaching.qmd) for courses and programs. Highlights: led developme
 
 ## Publications
 
-100+ publications, including 4 books and 20+ book chapters. Selected and filterable list on [Publications](publications.qmd); full list on [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en).
+100+ publications, including 4 books and 13 book chapters. Selected and filterable list on [Publications](publications.qmd); full list on [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en).
 
 **Books**
 

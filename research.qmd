@@ -73,7 +73,7 @@ Speech technology now decides who gets heard in public agencies, classrooms and 
 
 - Ethics Chair, IEEE ASLI 2027
 - Ethics Chair, INTERSPEECH 2025–2026
-- Chair, ISCA Ethics Committee
+- Member, ISCA Ethics Committee
 - Management Committee, GRADE COST Action
 - Working group member, CoARA
 - Chair, Campus Fryslân Ethics Committee
@@ -117,7 +117,7 @@ The linguistic groundwork comes from years of fieldwork on Aymara and other Ande
 
 ## Meaning beyond words {#meaning}
 
-Speech carries more than words: emotion, intent, irony. Sarcasm is our central test case, since speakers routinely mean the opposite of what they say. We combine acoustic, linguistic and visual cues to detect it, and we synthesize it to find out which cues listeners actually use. Related work looks at how listeners perceive prosody, including through cochlear implants and in Parkinson's speech, and at how people experience sound in everyday places.
+Speech carries more than words: emotion, intent, irony. Sarcasm is our central test case, since speakers routinely mean the opposite of what they say. We combine acoustic, linguistic and visual cues to detect it, and we synthesize it to find out which cues listeners actually use. Related work looks at how listeners perceive prosody, including through cochlear implants and in Parkinson's and other dysarthric speech, and at how people experience sound in everyday places.
 
 :::: {.theme-columns}
 ::: {.theme-col}
