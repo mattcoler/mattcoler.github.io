@@ -11,6 +11,9 @@ website:
   site-url: "https://mattcoler.github.io"
   description: "Speech technology, AI ethics and language diversity. Associate Professor, University of Groningen."
   favicon: images/favicon.svg
+  image: images/portrait.jpg
+  open-graph: true
+  twitter-card: true
   navbar:
     right:
       - research.qmd
@@ -38,6 +41,9 @@ website:
       - icon: envelope
         href: mailto:m.coler@rug.nl
         aria-label: Email
+      - icon: rss
+        href: news.xml
+        aria-label: RSS feed
 
 format:
   html:

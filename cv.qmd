@@ -5,7 +5,7 @@ toc-title: "Sections"
 toc-depth: 2
 ---
 
-Matt Coler received his PhD from the Free University of Amsterdam in 2010. After a postdoctoral appointment at his alma mater, he joined an AI start-up focused on acoustic sensors, where he served as head of the cognitive systems unit. In 2012 he returned to academia. He is currently an Associate Professor of Speech Technology at Campus Fryslân, University of Groningen, where he directs the MSc Speech Technology program and heads the Governance & Technology Department.
+Matt Coler received his PhD from the Free University of Amsterdam in 2010. After a postdoctoral appointment at his alma mater, he joined an AI start-up focused on acoustic sensors, where he headed the cognitive systems unit from 2012 to 2016. In 2016 he returned to academia full-time at the University of Groningen. He is currently an Associate Professor of Speech Technology at Campus Fryslân, University of Groningen, where he directs the MSc Speech Technology program and heads the Governance & Technology Department.
 
 ## Employment
 
@@ -15,7 +15,7 @@ Matt Coler received his PhD from the Free University of Amsterdam in 2010. After
 - **2012–2016**: Head, Cognitive Systems, Innovation Center for Sensor Systems
 - **2012–2013**: Instructor, University of Applied Sciences Amsterdam
 - **2011–2012**: Postdoctoral Scientist, Free University Amsterdam
-- **2006–2010**: Doctoral Researcher, Free University Amsterdam
+- **2007–2010**: Doctoral Researcher, Free University Amsterdam
 
 ## Education and training
 
@@ -25,7 +25,7 @@ Matt Coler received his PhD from the Free University of Amsterdam in 2010. After
 
 **Training**
 
-- **2024**: Senior Teaching Qualification (STQ): *GPT in the classroom*
+- **2024**: Senior Teaching Qualification (STQ), University of Groningen: *GPT in the classroom*
 - **2024**: AI Empathy & Ethics, University of California MOOC
 - **2023**: AI: Ethics & Societal Challenges, Lund University MOOC
 
@@ -33,9 +33,8 @@ Matt Coler received his PhD from the Free University of Amsterdam in 2010. After
 
 Roles in international research projects with combined budgets over €15M, funded by EU, national, and regional programmes, in speech technology and AI, minority and low-resource languages, language preservation, human-centred technology, and acoustic sensing. Small grants for feasibility studies and virtual exchange are not listed.
 
-- **2023–2024**: **LITHME COST Action CA19102**, Vice-Chair. White Paper, short-term scientific missions, guest lectures.
-- **2017–2025**: **H2020-MSCA-RISE-2017: COLING**, *Minority Languages, Major Opportunities: Collaborative Research, Community Engagement and Innovative Educational Tools*. €1.58M total (€189k for my team). Steering Committee Member and Work Package Leader.
-- **2016–2019**: **H2020-FET-Open: Phoenix**, *Exploring the Unknown through Reincarnation and Co-evolution*. €3.6M total (€237k for my team). Work Package Leader and Management Team Member.
+- **2017–2025**: **H2020-MSCA-RISE-2017: COLING**, *Minority Languages, Major Opportunities: Collaborative Research, Community Engagement and Innovative Educational Tools*. €1.58M total (€189k for my team). Steering Committee Member and Work Package Leader. Established an international research exchange with the Smithsonian Institution.
+- **2016–2019**: **H2020-FET-Open: Phoenix**, *Exploring the Unknown through Reincarnation and Co-evolution*. Evolving hardware technologies for extreme environments. €3.6M total (€237k for my team). Work Package Leader and Management Team Member.
 - **2016–2019**: **Polish Science Foundation TEAM Grant**, *Language as a cure: linguistic vitality as a tool for psychological well-being, health and economic sustainability*. €814k.
 - **2015–2018**: **Interreg VA ID3AS**, *Acoustic event detection*. €9.75M total (€200k for my team).
 
@@ -53,32 +52,31 @@ Roles in international research projects with combined budgets over €15M, fund
 
 ### Ethics
 
-- **2027**: Ethics Chair, IEEE ASLI 2027 (International Conference on Audio, Speech, and Language Intelligence), Singapore
-- **2025–2026**: Member, ISCA Ethics Committee
+- **2027**: Ethics Chair, IEEE ASLI 2027 (IEEE International Conference on Audio, Speech, and Language Intelligence), Singapore
+- **2025–2026**: Member, Ethics Committee, International Speech Communication Association (ISCA)
 - **2025–2026**: Ethics Chair, Interspeech
 - **2025–present**: Chair, Ethics Committee, Campus Fryslân (previously 2018–2020)
 - **2024**: Co-organizer, *Exploring the Dark Side of Future Language Technologies*
-- **2023–present**: Working Group Member, CoARA, Ethics and Research Integrity Policy
+- **2023–present**: Working Group Member, Coalition for Advancing Research Assessment (CoARA), Ethics and Research Integrity Policy in Responsible Research Assessment for Data and Artificial Intelligence (ERIP)
 
 ### European networks and policy
 
-**LITHME COST Action CA19102, Vice Chair (2023–2024)**
+COST Actions are EU-funded research networks run by COST (European Cooperation in Science and Technology).
+
+**LITHME, Language in the Human-Machine Era (COST Action CA19102), Vice Chair (2023–2024)**
 
 - Led a 300+ researcher network across 39 countries; "excellent" final evaluation
+- Coordinated the White Paper, short-term scientific missions and guest lectures
 - Published a [forecast report](https://doi.org/10.17011/jyx/reports/20210518/1) with 4,000+ downloads and 40+ citations
 - Established a permanent Special Interest Group (200+ members)
 - Connected academia with industry (ReadSpeaker, Nvidia)
 - Developed a Marie Skłodowska-Curie proposal scoring 94.6%
 
-**GRADE COST Action CA21141, Management Committee Member (2025–present)**
+**GRADE, Grassroots of Digital Europe (COST Action CA21141), Management Committee Member (2025–2026)**
 
-- Shaping AI ethics and governance policy; Netherlands representative
+- Netherlands representative
 
-**PLURILINGMEDIA COST Action, AI ad hoc group (2026)**
-
-**H2020-MSCA-RISE: COLING (2017–2025)**: Steering Committee Member and Work Package Leader. Established an international research exchange with the Smithsonian Institution.
-
-**H2020-FET-Open: Phoenix (2016–2019)**: Management Team Member and Work Package Leader. Evolving hardware technologies for extreme environments.
+**PLURILINGMEDIA, Language Plurality in Europe's Changing Media Sphere (COST Action CA23105), AI ad hoc group (2026)**
 
 **Policy engagement**
 
@@ -131,7 +129,7 @@ See [Teaching](teaching.qmd) for courses and programs. Highlights: led developme
 
 ## Publications
 
-100+ publications, including 4 books and 13 book chapters. Selected and filterable list on [Publications](publications.qmd); full list on [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en).
+100+ publications, including 4 books and 15 book chapters. Selected and filterable list on [Publications](publications.qmd); full list on [ORCID](https://orcid.org/0000-0002-7631-5063) and [Google Scholar](https://scholar.google.com/citations?user=zdhKTgEAAAAJ&hl=en).
 
 **Books**
 
