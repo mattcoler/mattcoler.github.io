@@ -53,6 +53,8 @@ document.addEventListener("DOMContentLoaded", function () {
 I work at the intersection of speech technology, AI ethics governance, and language diversity. I direct the MSc Speech Technology program and serve as Department Head of Governance & Technology at the University of Groningen. I'm also an affiliated professor at the Institute for Advanced Studies, University of Warsaw.
 
 My research focuses on speech synthesis, recognition, and evaluation, alongside the ethical governance of AI systems. In addition to supervising doctoral students, I chair ethics at INTERSPEECH 2025–2026, serve on the ISCA Ethics Committee, and evaluate research for the European Commission.
+
+I advise research funders and EU bodies on the ethics of speech AI and on language technology for minoritized languages.
 :::
 
 ::::
