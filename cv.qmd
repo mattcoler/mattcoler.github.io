@@ -117,7 +117,7 @@ COST Actions are EU-funded research networks run by COST (European Cooperation i
 - Editorial board, University of Groningen Press (UGP)
 - Series editor and reviewer, Open Text Collections (Language Science Press)
 
-**Journal reviewing:** Computer Speech & Language (2025, 2026), Applied Acoustics (2025), Folia Linguistica (2025), PLOS One (2025), Open Linguistics (2025), Revista Lenguaje (2025), Linguistics and Philosophy (2025), Annals of the New York Academy of Sciences (2026), IEEE/ACM Transactions on Audio, Speech and Language Processing (2026), Scientific Data (2026), Scientific Reports (2026 ×2), Discover Artificial Intelligence (2026).
+**Journal reviewing:** Computer Speech & Language (2025, 2026), Applied Acoustics (2025), Folia Linguistica (2025), PLOS One (2025), Open Linguistics (2025), Revista Lenguaje (2025), Linguistics and Philosophy (2025), Annals of the New York Academy of Sciences (2026), IEEE/ACM Transactions on Audio, Speech and Language Processing (2026), IEEE Transactions on Cybernetics (2026), Scientific Data (2026), Scientific Reports (2026 ×2), Discover Artificial Intelligence (2026).
 
 **Conference reviewing:** ICASSP 2025, SWL X 2025, LREC SIG on Under-resourced Languages (2022–2026), YFRSW (2024–2026), ALT-2026, SPEAKABLE LREC 2026.
 
