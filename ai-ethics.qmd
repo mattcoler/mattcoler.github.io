@@ -33,6 +33,7 @@ How speech and language technologies can be developed responsibly while respecti
 
 ## Talks and events
 
+- **2026**: [*Who Speaks for Learners? Speech AI, Minoritized Languages and the Limits of EU Law*](posts/2026-11-27-who-speaks-for-learners-tokyo/index.qmd). AI & Marginalized Knowledge Systems workshop, University of Tokyo (hybrid)
 - **2026**: [*Standing to Be Heard: Speech Technology and the Community of Speakers*](posts/2026-11-04-standing-to-be-heard-ege-university/index.qmd). Online keynote, *Human in the Age of Algorithms*, Ege University, İzmir
 - **2026**: [*Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law*](posts/2026-06-09-marginalized-knowledge-systems-warsaw/index.qmd). AI & Marginalized Knowledge Systems workshop, University of Warsaw
 - **2026**: [*Ethical Implications of AI in Research Assessment*](posts/2026-06-12-coara-spotlight-ai-research-assessment/index.qmd). CoARA Spotlight series

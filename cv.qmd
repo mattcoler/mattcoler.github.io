@@ -87,6 +87,7 @@ COST Actions are EU-funded research networks run by COST (European Cooperation i
 
 ## Talks and conference leadership
 
+- **2026**: Talk, *Who Speaks for Learners? Speech AI, Minoritized Languages and the Limits of EU Law*. AI & Marginalized Knowledge Systems workshop, University of Tokyo
 - **2026**: Keynote (online), *Standing to Be Heard: Speech Technology and the Community of Speakers*. *Human in the Age of Algorithms*, Ege University, İzmir
 - **2026**: Talk, *Who Governs the Spoken Word? Speech Tech, Minoritized Languages, and the Limits of AI Law*. University of Warsaw
 - **2026**: Program Committee, *Speech Language Models in Low-Resource Settings* (SPEAKABLE), co-located with LREC 2026

@@ -1,0 +1,16 @@
+---
+title: "Who Speaks for Learners? (U Tokyo)"
+date: 2026-11-27
+categories: [AI ethics, Language diversity, Talk]
+---
+On Friday 27 November I'm speaking at [AI & Marginalized Knowledge Systems](https://itatsulab.jp/2026/11/09/ai-marginalized-knowledge-systems/), a joint workshop of the Itatsu Lab at the University of Tokyo and the Center for Research and Practice in Cultural Continuity at the University of Warsaw, where I sit on the board. It's the second workshop under that name. The first was in Warsaw in June, where I gave [Who Governs the Spoken Word?](../2026-06-09-marginalized-knowledge-systems-warsaw/index.qmd)
+
+My talk is "Who Speaks for Learners? Speech AI, Minoritized Languages and the Limits of EU Law."
+
+Speech recognition and synthetic voices for minoritized languages are trained almost entirely on fluent adult speakers. That leaves out the people who actually keep these languages going: learners, children, new speakers. I look at the gap through two cases, Frisian in the Netherlands and Irish in AAC assistive technology. Then I turn to the law. EU AI law gives rights to individuals and duties to providers. A community harmed as a community has no clear remedy. That's the same problem I raised at [Ege University](../2026-11-04-standing-to-be-heard-ege-university/index.qmd) earlier this month, seen this time from the learner's side.
+
+I'm in good company. Justyna Olko speaks on equity in digital tools built with Indigenous communities, Asuka Ando on collecting Japanese Sign Language data as a CODA researcher, Matthew Guay on AI for Yaeyaman, and Xinqi He on what large language models do to language itself.
+
+The workshop is hybrid and runs 16:45–19:00 JST (08:45–11:00 in Amsterdam) at the Faculty of Engineering Building 2 on the Hongo campus. No registration needed. The Zoom link is on the [event page](https://itatsulab.jp/2026/11/09/ai-marginalized-knowledge-systems/).
+
+Thanks to Yuko Itatsu and her lab for hosting.
