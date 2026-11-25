@@ -8,6 +8,13 @@
 
 
 # ---------- 2026 ----------
+# Title provisional (submitted version was cut off); confirm against camera-ready and add ISCA Archive url when out.
+- title: "Beyond binary classification: A modality-aware mixture-of-experts network for multimodal sarcasm detection"
+  authors: "Gao, X., Li, Z., Wang, B. X., Nayak, S. & Coler, M."
+  venue: "Proceedings of the 6th International Symposium on Applied Phonetics (ISAPh 2026), to appear"
+  year: 2026
+  categories: [Conference paper, Multimodal AI]
+
 - title: "Improving low-resource ASR using bilingual fine-tuning with language identification: A cross-linguistic evaluation"
   authors: "Amooie, R., Hao, Y., de Vries, W., Dijkstra, J., Coler, M. & Wieling, M."
   venue: "SPEAKABLE Workshop @ LREC 2026, 132–138"
