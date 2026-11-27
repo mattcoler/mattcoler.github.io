@@ -1,5 +1,5 @@
 ---
-title: "Who Speaks for Learners? (U Tokyo)"
+title: "Who Speaks for Learners? — Talk at the University of Tokyo"
 date: 2026-11-27
 categories: [AI ethics, Language diversity, Talk]
 image: https://itatsulab.jp/wp-content/uploads/2026/11/version-1_ai-and-marginalized-knowledge-workshop-poster-8.png
